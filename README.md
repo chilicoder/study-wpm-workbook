@@ -1,7 +1,7 @@
 # study-wpm-workbook
 
 
-==SCRUM==
+##SCRUM
 To my mind one of the the main threads in starting of scrum is the thread of falling to the Cargo cult, when a team start to do activities but doesnt understand what are this activities for
 
 What are the prerequisites for SCRUM process in a company:
@@ -10,7 +10,7 @@ What are the prerequisites for SCRUM process in a company:
 -High quality of product management
 
 
-==eXtreme PM==
+##eXtreme PM
 
 exploratory nature
 
@@ -29,10 +29,10 @@ establish rules for change requests then quickly react on changes
 weaknesses 
 easy to head of the road
 
-===IN SP I RE model===
+###IN SP I RE model
 
 
-==Multiple Teams Projects==
+##Multiple Teams Projects
 Several independent team (possible from outside)
 MY: crutial task to organize communication channels and interfaces between teams
 
