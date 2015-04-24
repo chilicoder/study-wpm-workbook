@@ -49,8 +49,11 @@ He is a Lead of Leads
 
 A **project management life cycle (PMLC)** is a sequence
 of processes that includes:
-■ Scoping
-■ Planning
-■ Launching
-■ Monitoring and controlling
-■ Closing
+* Scoping
+* Planning
+* Launching
+* Monitoring and controlling
+* Closing
+
+![fig21][WysockiFig21]
+[WysockiFig21]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-1.png "PML approaches"
