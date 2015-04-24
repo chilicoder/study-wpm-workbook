@@ -57,11 +57,10 @@ of processes that includes:
 
 ![fig21][WysockiFig21]
 [WysockiFig21]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-1.png "PML approaches"
-*We choose approach basing on level of goals clearness. 
+We choose approach basing on level of goals clearness. 
 
-I'm still have a general questions, 
-*How to describe Bussiness values? How to make constrainets? The business can say.. we want to get 10 or 100 or 1000 customers... let us make a project to do it. **How to separate groundless wishes from reasanable goals?** 
-*
+*I'm still have a general questions, 
+How to describe Bussiness values? How to make constrainets? The business can say.. we want to get 10 or 100 or 1000 customers... let us make a project to do it. __How to separate groundless wishes from reasanable goals?__ *
 
 
 
