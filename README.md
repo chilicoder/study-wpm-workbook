@@ -232,9 +232,29 @@ problem. __Ask the client why they want what they want__
 ![fig44][WysockiFig44]
 [WysockiFig44]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-4-4.png "The Stakeholder Interaction Model"
 
+
+__Selected Methods for Eliciting Requirements from Business Needs__
 | METHOD | STRENGTHS | RISKS |
 |----| --------------------| -------------|
 |Facilitated Group Sessions  | Excellent for cross-functional processes.Detailed requirements can be documented and verified immediately. Resolves issues with an impartial facilitator. | Use of untrained facilitators can lead to a negative response from users. The time and cost of the planning and/or executing session can be high.|
 |Interviews |End-user participation. High-level descriptions of functions and processes are provided.  |Descriptions may differ from actual detailed activities. Without structure, stakeholders may not know what information to provide. Real needs may be ignored if the analyst is prejudiced.|
 |Prototyping  |Innovative ideas can be generated. Users clarify what they want. Users identify requirements that may be missed.Client-focused. Early proof of concept.Stimulates thought processes. |Client may want to implement the prototype. Difficult to know when to stop. Specialized skills are required. Absence of documentation. |
 |Requirements Workshop |Good way for first-time users. |May overwhelm customer. |
+
+![tab42][WysockiTab42]
+[WysockiTab42]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-tab-4-2.png "Mapping of the Ten Knowledge Areas to the Five Process Groups"
+
+__Project Overview Statement (POS)__
+The POS is a short document (ideally one page) that concisely states what is to be done in the project, why it is to be done, and what business value it will provide to the enterprise when completed.
+
+The POS has the following five component parts:
+* Problem or opportunity
+* Project goal
+   __Specific__ — Be specifi c in targeting an objective.
+   __Measurable__ — Establish measurable indicators of progress.
+   __Assignable__ — Make the object assignable to one person for completion.
+   __Realistic__ — State what can realistically be done with available resources.
+   __Time-related__ — State when the objective can be achieved—that is, the duration.
+* Project objectives
+* Success criteria
+* Assumptions, risks, and obstacles
