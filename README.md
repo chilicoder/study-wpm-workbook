@@ -221,7 +221,7 @@ Stakeholder types:
 The Process Groups are the building blocks of project management methodologies. Similarly,
 by selecting and adapting the processes within a Process Group, you can establish the specific processes that drive a PMLC. So the processes within a Process Group are the detailed building blocks of the phases of the PMLC.
 
-###Ch4
+###Ch4 Scoping in TPM
 Managing Client Expectations
 Wants versus Needs
 __Wants and needs are closely linked to one another but are fundamentally
@@ -258,3 +258,104 @@ The POS has the following five component parts:
 * Project objectives
 * Success criteria
 * Assumptions, risks, and obstacles
+
+##Planning in TPM
+![fig51][WysockiFig51]
+[WysockiFig51]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-5-1.png "Pain curves"
+
+Project Evaluation and Review Technique (PERT) chart is a graphical tool
+that displays the relationship between dependent tasks
+
+As for project planning the list is very short: sticky notes, marking pens, and plenty of whiteboard space. The tools I just mentioned happen to be my choice for some incremental, most iterative, all adaptive, and all extreme projects. Just remember that if you create the plan using software tools, you have to maintain it using the software tools.
+
+The following estimates of planning time are a good guide:
+  Very small projects — Less than 1/2 day
+  Small projects — Less than one day
+  Medium projects — 2 days
+  Large projects — 3 – 4 days
+  Very large projects — 30 team members translates to a large project. The planning time can vary widely from 5 or more days to several months.
+
+The objective of a Joint Project Planning Session (JPPS) is this: Develop a project plan that meets the COS as negotiated between the requestor and the provider, and as described in the POS and RBS. (Conditions of Satisfaction (COS) and Project Overview Statement (POS))
+
+Sample agenda for the project planning sessions:
+* Session 1
+  1. Negotiate the COS.
+  2. Build the RBS.
+* Session 2
+  1. Write the POS.
+* Session 3 (JPPS)
+  1. The entire planning team creates the fi rst-level WBS.
+  2. Subject matter experts develop further decomposition, with the entire planning team observing and commenting.
+  3. Estimate activity durations and resource requirements.
+  4. Construct a project network diagram.
+  5. Determine the critical path.
+  6. Revise and approve the project completion date.
+  7. Finalize the resource schedule.
+  8. Gain consensus on the project plan.
+
+The __Work Breakdown Structure (WBS)__ is a hierarchical description of all work that must be done to complete the project as
+defined in the current RBS
+
+Six Criteria to Test for Completeness in the WBS
+Activity must possess to be called a task are as follows:
+* Status and completion are measurable.
+* The activity is bounded.
+* The activity has a deliverable.
+* Time and cost are easily estimated.
+* Activity duration is within acceptable limits.
+* Work assignments are independent.
+
+If the activity does not possess all six of these characteristics, decompose the activity and check it again at that next lower level of decomposition.
+
+Approaches to Building the WBS
+* Physical Decomposition
+* Functional Decomposition
+* Design-Build-Test-Implement
+* Objectives
+* Geographic
+* Departmental
+* Business Process
+pick the one that seems to bring the most clarity to defining the project work.
+
+
+![fig57][WysockiFig57]
+[WysockiFig57]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-5-7.png "WBS for a waterfall systems development methodology"
+
+Estimating.
+It is important to understand the difference between labor time and duration time. They are not the same.
+
+![fig58][WysockiFig58]
+[WysockiFig58]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-5-8.png "Elapsed time versus work time"
+
+Six Methods for Estimating Task Duration
+* Similarity to other tasks
+* Historical data
+* Expert advice
+* Delphi technique
+* Three-point technique
+* Wide-band Delphi technique
+
+Estimating Resource Requirements
+Estimating Cost
+
+Project Network Diagram
+A project schedule can be built using either of the following:
+* Gantt chart
+* Network diagram
+
+
+Contents of the Project Proposal:
+* Executive Summary
+* Background
+* Objective
+* Overview of the Approach to Be Taken
+* Detailed Statement of the Work
+* Time and Cost Summary
+* Appendices
+
+
+
+
+
+
+
