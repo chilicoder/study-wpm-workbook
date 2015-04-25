@@ -173,7 +173,53 @@ APM -  "B" players with supervision of "A" player often sufficient
 The less you know about the solution, the more you are going to have to staff your project with “A” players
 
 
+## Project Management Process Groups
+* _Scoping Process Group_ (which PMI calls the Initiating Process Group)
+“What business situation is being addressed?” and “What does the business
+need to do?”
+* _Planning Process Group_
+* _Launching Process Group (which PMI calls the Executing Process Group)_
+* _Monitoring and Controlling Process Group_
+* _Closing Process Group_
 
+### Knowledge Areas
+Project Integration Management
+Project Scope Management
+Project Time Management
+Project Cost Management
+Project Quality Management
+Project Human Resource Management
+_Project Communications Management_
+As many as 70 percent of the IS/IT project failures can be traced back to poor communications
+A good communications management process will have provisions in the process that answer the following questions:
+* Who are the project stakeholders?
+* What do they need to know about the project?
+   Common questions of all stakeholders:
+  * What input will I be required to provide the project team?
+  * How can I make my needs known?
+  * When will the project be done?
+  * How will it affect me?
+  * Will I be replaced?
+  * How will I learn how to use the deliverables?
+* How should their needs be met?
+
+Project Risk Management
+Project Procurement Management
+_Project Stakeholder Management_
+Stakeholder types:
+* Sponsors
+* Clients
+* Customers
+* Business process engineers
+* Resource managers
+* Project managers
+* Business analysts
+
+![tab33][WysockiTab33]
+[WysockiTab33]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-tab-3-3.png "Mapping of the Ten Knowledge Areas to the Five Process Groups"
+
+The Process Groups are the building blocks of project management methodologies. Similarly,
+by selecting and adapting the processes within a Process Group, you can establish the specific processes that drive a PMLC. So the processes within a Process Group are the detailed building blocks of the phases of the PMLC.
 
 
 
