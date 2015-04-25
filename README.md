@@ -70,17 +70,20 @@ Achieve business goals is a project? Or project is to get business value (make r
 
 The more uncertaincy we get the less detailed planning for the whole project we need in the beginning. It doesn't mean that we need less planning, 
 
+### PMLC model pie
+At least 70 percent of all their projects are APM projects, 20 percent are TPM projects, and the remaining 10 percent is split between xPM and MPx projects
+
 ###Traditional Project Management
 20% of projects. Infrastructure projects. 
 TPM projects are change-intolerant. RBS and WBS are relatively complete. High expenses for change.
 Well-known technology. Skilled and well organized team. Well known risks. 
 
-Linear PMLC model. 
+_Linear PMLC model._ 
 ![fig22][WysockiFig22]
 [WysockiFig22]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-2.png "Lenear PMLC Model"
 There is no going back to improve deliverables.
 
-Incremental PMLC model. 
+_Incremental PMLC model._ 
  The complete solution is known at the outset
 ![fig23][WysockiFig23]
 [WysockiFig23]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-3.png "Incremental PMLC Model"
@@ -98,6 +101,76 @@ Examples:
 * A Previously Untapped Business Opportunity
 
 APM projects are change-driven. APM are “lean” in terms of planning resources. They utilize just-in-time planning models.
+The solution will be discovered only if the client and the development team meaningfully collaborate in an open and honest environment.
+APM approaches do not scale well. To manage a 30+ project team, partition it into smaller teams, with each of these teams being responsible for part of the scope
+
+APM approaches all have one thing in common — you cannot build a complete WBS without guessing. The choice
+of which model to use depends somewhat on the initial degree of uncertainty you have about the solution.
+
+_Iterative PLMC Model_
+![fig24][WysockiFig24]
+[WysockiFig24]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-4.png "Iterative PMLC Model"
+
+Differs from the Incremental PMLC model in that change is expected. The development team usually takes client input and presents alternatives in the next version of the prototype.
+
+_Adaptive PLMC Model_
+the less you know about the solution, the more likely you will choose
+an Adaptive PMLC model over an Iterative PMLC model.
+
+![fig25][WysockiFig25]
+[WysockiFig25]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-5.png "Adaptive PMLC Model"
+
+###Extreme Project Management
+Pure R & D, new product development, and process improvement projects
+Example: Building a business-to-business (B2B) website with no further specification.
+
+In most cases, there is no fixed budget or time line. Obviously, the client wants it completed ASAP for as little as possible.
+
+__The xPM Project Is Very High Risk__
+
+_We need to clarify the goal. For this we can use Probative Swim Lanes approach. Depending on available resources we probes can be performed concurrently or sequentially._
+
+The goal is often not much more than a guess at a desired end state with the hope that a solution to achieve it can be found
+
+Difference between APM and xPM PMLC. 
+* In an APM project, scope is done once at the beginning of the project. In the xPM project, scope is adjusted at each phase.
+* In many xPM projects, the client
+takes a leadership position instead of the collaborative position they took in
+APM projects.
+
+
+_Extreme PLMC Model_
+“Fuzzy goals” or goals that cannot be defined because of the exploratory nature of the extreme project
+Example: Drug research
+
+![fig26][WysockiFig26]
+[WysockiFig26]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-6.png "Extreme PMLC Model"
+
+xPM requires the client to be more involved within and between phases.
+
+###Emertxe Project Management 
+The solution is known, but the goal is not. Type of R & D project but in reverse. You hope to find a business value for application of your solution. The scheme is similar to xPM
+
+MPx characteristics
+* A New Technology without a Known Application
+* A Solution Out Looking for a Problem to Solve (New software system introduced and you try to find how it can be useful to your company)
+
+###Choosing a model 
+![fig28][WysockiFig28]
+[WysockiFig28]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-8.png "PMLC model choice process"
+
+Other factors that can affect:
+* Total Cost
+* Duration
+* Market Stability
+* Technology
+* Business climate
+* Number of departments affected
+* Organizational Environment
+* Team Skills
+TPM - "B" players (or even "C")
+APM -  "B" players with supervision of "A" player often sufficient
+The less you know about the solution, the more you are going to have to staff your project with “A” players
 
 
 
