@@ -221,5 +221,32 @@ Stakeholder types:
 The Process Groups are the building blocks of project management methodologies. Similarly,
 by selecting and adapting the processes within a Process Group, you can establish the specific processes that drive a PMLC. So the processes within a Process Group are the detailed building blocks of the phases of the PMLC.
 
+###Ch4
+Managing Client Expectations
+Wants versus Needs
+__Wants and needs are closely linked to one another but are fundamentally
+different__ Client wants tend to be associated with a solution
+to a problem that they envision. Needs tend to be associated with the actual
+problem. __Ask the client why they want what they want__
 
+![fig44][WysockiFig44]
+[WysockiFig44]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-4-4.png "The Stakeholder Interaction Model"
 
+| METHOD | STRENGTHS | RISKS |
+|----| --------------------| -------------|
+|Facilitated Group Sessions  
+| Excellent for cross-functional
+processes.Detailed requirements can be documented and verified immediately. Resolves issues with an impartial facilitator. 
+| Use of untrained facilitators can lead to a negative response from users.
+The time and cost of the planning and/or executing session can be high.|
+|Interviews 
+|End-user participation. High-level descriptions of functions and processes are provided. 
+|Descriptions may differ from actual detailed activities.
+Without structure, stakeholders may not know what information to provide. Real needs may be ignored if the analyst is prejudiced.|
+|Prototyping 
+|Innovative ideas can be generated. Users clarify what they want. Users identify requirements
+that may be missed.Client-focused. Early proof of concept.Stimulates thought processes. 
+|Client may want to implement the prototype. Difficult to know when to stop. Specialized skills are required. Absence of documentation. |
+|Requirements Workshop 
+|Good way for first-time users. 
+|May overwhelm customer. |
