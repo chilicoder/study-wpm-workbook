@@ -234,19 +234,7 @@ problem. __Ask the client why they want what they want__
 
 | METHOD | STRENGTHS | RISKS |
 |----| --------------------| -------------|
-|Facilitated Group Sessions  
-| Excellent for cross-functional
-processes.Detailed requirements can be documented and verified immediately. Resolves issues with an impartial facilitator. 
-| Use of untrained facilitators can lead to a negative response from users.
-The time and cost of the planning and/or executing session can be high.|
-|Interviews 
-|End-user participation. High-level descriptions of functions and processes are provided. 
-|Descriptions may differ from actual detailed activities.
-Without structure, stakeholders may not know what information to provide. Real needs may be ignored if the analyst is prejudiced.|
-|Prototyping 
-|Innovative ideas can be generated. Users clarify what they want. Users identify requirements
-that may be missed.Client-focused. Early proof of concept.Stimulates thought processes. 
-|Client may want to implement the prototype. Difficult to know when to stop. Specialized skills are required. Absence of documentation. |
-|Requirements Workshop 
-|Good way for first-time users. 
-|May overwhelm customer. |
+|Facilitated Group Sessions  | Excellent for cross-functional processes.Detailed requirements can be documented and verified immediately. Resolves issues with an impartial facilitator. | Use of untrained facilitators can lead to a negative response from users. The time and cost of the planning and/or executing session can be high.|
+|Interviews |End-user participation. High-level descriptions of functions and processes are provided.  |Descriptions may differ from actual detailed activities. Without structure, stakeholders may not know what information to provide. Real needs may be ignored if the analyst is prejudiced.|
+|Prototyping  |Innovative ideas can be generated. Users clarify what they want. Users identify requirements that may be missed.Client-focused. Early proof of concept.Stimulates thought processes. |Client may want to implement the prototype. Difficult to know when to stop. Specialized skills are required. Absence of documentation. |
+|Requirements Workshop |Good way for first-time users. |May overwhelm customer. |
