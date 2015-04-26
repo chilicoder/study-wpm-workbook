@@ -45,7 +45,7 @@ Core Team Structure
 Core Team Manager is not a Project Manager
 He is a Lead of Leads
 
-#Wisocki
+#Wysocki
 
 ##Project Management Life Cycles
 
@@ -388,7 +388,7 @@ Situations that Require Team Operating Rules:
   * _Participative._ Everyone on the team contributes to the decision-making process.
   * _Consultative._ The person in authority makes the final decision, but this decision is made only after consulting with all members to get their input and ideas
 * Conflict resolution
-  * _Avoidant_ Some people will do anything to avoid a direct confrontation, but each person’s input and opinion must be sought. A simple device is to ask all of the team members in turn what they think about the situation and what they suggest should be done about it.
+  * _Avoidant_ Some people will do anything to avoid a direct confrontation, but each person's input and opinion must be sought. A simple device is to ask all of the team members in turn what they think about the situation and what they suggest should be done about it.
   * _Combative_ The project manager must be able to identify these combative team members and act to mitigate the chances of these combative situations arising. Tip: to put potentially combative individuals in charge of forming a recommendation for the team to consider.
   * _Collaborative_ This approach encourages each team member to put his or her opinions on the table and not avoid any conflict that may result.
 * Consensus building
@@ -567,3 +567,67 @@ Example list:
 Celebrating Success
 There must be some recognition for the project team at the end of the project. This can be as simple as individual thank-you notes, a commemorative mug, a T-shirt, a pizza party, or tickets to a ball game; or it can be something more formal, such as bonuses
 Even though the team may have started out as a “herd of cats,” the project they have just completed has honed them into a real team. This can be a very traumatic experience for them, and they deserve closure. That is what celebrating success is all about.
+
+##Complex Project Management
+Understanding the Complexity/Uncertainty Domain of Projects
+__Uncertainty__ is the result of changing market conditions that require high-speed and high-change responses to produce a solution in order to be competitive. __Complexity__ is the result of a solution that has eluded detection and will be difficult to find.
+
+__Non-value-added__ work involves the consumption of resources (usually people or time) on activities that do not add business value to the final product or process.
+
+Each quadrant of the project landscape has different profiles when it comes to risk, team, communications, client involvement, specification, change, business value, and documentation.
+
+As less and less of the solution is known, the impact of non-value-added work on project success becomes more and more of a factor. Time has been wasted. APM models are better equipped than TPM models to handle this uncertainty and the complexity that results from it. __The models are built on the assumption that the solution has to be discovered__
+
+APM processes expect and embrace change as a way to find a better solution and as a way to maximize business value within time and budget constraints. That means choosing and continually changing the PMLC model to increase the business value that will result from the project. Realize that to some extent __scope is a variable__ in the complex project management world.
+
+Risk versus the Complexity/Uncertainty Domain.
+the PMLC model becomes more flexible and lighter. At the same time, project risk increases. Risk increases
+in relation to the extent to which the solution is not known. On balance, that means more effort should be placed on risk management as the project moves through APM and looks more like an xPM project. There will be less experience with these risks because they are specific to the product being developed. In xPM and MPx projects, risk is the highest because you are in an R & D environment. Process risk is almost nonexistent because the ultimate in flexibility has been reached in this quadrant but product risk is extremely high.
+
+Team Cohesiveness 
+The team becomes more self-organizing, self-sufficient, and self-directing as the project moves across the quadrants. *It is highly recommended that APM, xPM, and MPx teams be co-located.*
+
+Communications.
+Top 10 reasons for project failure as reported in the Standish Group CHAOS 2010 Report:
+__1. Lack of user input__
+__2. Incomplete requirements and specification__
+__3. Changing requirements and specification__
+4. Lack of executive support
+5. Technology incompetence
+6. Lack of resources
+7. Unrealistic expectations
+8. Unclear objectives
+9. Unrealistic time frames
+10. New technology
+The first three items on the list are related to people-to-people communications, either direct or indirect.
+
+As uncertainty and complexity increase, one-way communication has to give way to two-way communication, so written communications give way to meetings and other forums for verbal communication.
+
+Client Involvement.
+Clients must now take a more active role in APM projects than was their role in TPM projects. For xPM projects, meaningful client involvement is essential. In fact, the client should take on a proactive role. The project goes nowhere without that level of commitment from the client.
+
+In your effort to maintain client-focus and deliver business value, you are dealing with a business problem,
+not a technology problem. You have to find a business solution. Who is better equipped to help than clients? After all, you are dealing with their part of the business ????????? _Business solution?_
+
+Here is my suggestion to attain and sustain meaningful client involvement. Training, training, and more training.
+
+Ownership by the Client _maybe this is the key for business solution?_
+This ownership is so important that I have even postponed starting client engagements because clients can't send a qualified spokesperson to the planning meeting. When they do, you have to be careful that they don't send you a weak representative who just isn't busy at the time or who doesn't really understand the business context of the project.
+
+Specification
+
+Changes
+The less you know about requirements, functionality, and features, the more you have to expect change.
+When the client has the opportunity to examine and experiment with a partial solution, they will invariably come back to the developers with suggestions for other requirements, functionality, and features that should be part of the solution. These suggestions can be put into one of two categories:
+either they are _wants_ or they are _needs_
+
+Wants may be little more than the result of a steak appetite on a baloney budget. It is up to the project manager to help clients defend their wants as true needs and hence build the business case for integrating the changes into the solution. On the other hand, if a client demonstrates the true value of what they want, it can be transferred to a true need
+
+Business Value
+
+TPM projects potentially deliver the least business value and that business value increases as you move from TPM to APM to xPM. At the same time, risk also increases, which means that higher-valued projects are expected in order to be commissionable as you move across the quadrants. Remember that the expected business value of a project is the product of (1 – risk) and value.
+
+The more uncertainty that is present in the development project, the more need
+there is to be able to redirection as business conditions change
+
+The focus on delivery of business value is apparent and up-front in all of the APM and xPM project management approaches.
