@@ -250,11 +250,11 @@ The POS is a short document (ideally one page) that concisely states what is to 
 The POS has the following five component parts:
 * Problem or opportunity
 * Project goal
-   __Specific__ — Be specifi c in targeting an objective.
-   __Measurable__ — Establish measurable indicators of progress.
-   __Assignable__ — Make the object assignable to one person for completion.
-   __Realistic__ — State what can realistically be done with available resources.
-   __Time-related__ — State when the objective can be achieved—that is, the duration.
+   __Specific__ Be specific in targeting an objective.
+   __Measurable__ Establish measurable indicators of progress.
+   __Assignable__ Make the object assignable to one person for completion.
+   __Realistic__ State what can realistically be done with available resources.
+   __Time-related__ State when the objective can be achieved - that is, the duration.
 * Project objectives
 * Success criteria
 * Assumptions, risks, and obstacles
@@ -269,13 +269,13 @@ that displays the relationship between dependent tasks
 As for project planning the list is very short: sticky notes, marking pens, and plenty of whiteboard space. The tools I just mentioned happen to be my choice for some incremental, most iterative, all adaptive, and all extreme projects. Just remember that if you create the plan using software tools, you have to maintain it using the software tools.
 
 The following estimates of planning time are a good guide:
-  Very small projects — Less than 1/2 day
-  Small projects — Less than one day
-  Medium projects — 2 days
-  Large projects — 3 – 4 days
-  Very large projects — 30 team members translates to a large project. The planning time can vary widely from 5 or more days to several months.
+  Very small projects Less than 1/2 day
+  Small projects Less than one day
+  Medium projects 2 days
+  Large projects 3 – 4 days
+  Very large projects 30 team members translates to a large project. The planning time can vary widely from 5 or more days to several months.
 
-The objective of a Joint Project Planning Session (JPPS) is this: Develop a project plan that meets the COS as negotiated between the requestor and the provider, and as described in the POS and RBS. (Conditions of Satisfaction (COS) and Project Overview Statement (POS))
+The objective of a Joint Project Planning Session (JPPS) is this: Develop a project plan that meets the COS as negotiated between the requester and the provider, and as described in the POS and RBS. (Conditions of Satisfaction (COS) and Project Overview Statement (POS))
 
 Sample agenda for the project planning sessions:
 * Session 1
@@ -284,7 +284,7 @@ Sample agenda for the project planning sessions:
 * Session 2
   1. Write the POS.
 * Session 3 (JPPS)
-  1. The entire planning team creates the fi rst-level WBS.
+  1. The entire planning team creates the first-level WBS.
   2. Subject matter experts develop further decomposition, with the entire planning team observing and commenting.
   3. Estimate activity durations and resource requirements.
   4. Construct a project network diagram.
@@ -353,9 +353,88 @@ Contents of the Project Proposal:
 * Time and Cost Summary
 * Appendices
 
+###Launch a TPM Project
+Recruiting the Project Team.
+Building effective teams is as much an art as it is
+a science.
+
+The project team has the following three separate components:
+* Core team
+* Client team
+* Contract team
+
+The Project Kick-Off Meeting is the formal announcement to the organization that this project has been planned and approved for execution.
+
+A sample Project Kick-off Meeting agenda:
+* Introduce the sponsor to the project team
+* Introduce the importance of the project by the sponsor
+* Introduce the project (client)
+* Introduce the project (project manager)
+* Introduce the project team members to each other
+* Write the PDS
+* Establish the team operating rules
+* Review the project plan
+* Finalize the project schedule
+* Write work package
 
 
+Establishing Team Operating Rules.
+Having these rules developed and agreed to by every team member is critical to project success. The rules of the engagement will help establish an environment for solving many project-related problems
+
+Situations that Require Team Operating Rules:
+* Problem solving
+* Decision making
+  * _Directive._ the person with the authority (the project manager for the project and the task manager for the task) makes the decision for all team members
+  * _Participative._ Everyone on the team contributes to the decision-making process.
+  * _Consultative._ The person in authority makes the final decision, but this decision is made only after consulting with all members to get their input and ideas
+* Conflict resolution
+  * _Avoidant_ Some people will do anything to avoid a direct confrontation, but each person’s input and opinion must be sought. A simple device is to ask all of the team members in turn what they think about the situation and what they suggest should be done about it.
+  * _Combative_ The project manager must be able to identify these combative team members and act to mitigate the chances of these combative situations arising. Tip: to put potentially combative individuals in charge of forming a recommendation for the team to consider.
+  * _Collaborative_ This approach encourages each team member to put his or her opinions on the table and not avoid any conflict that may result.
+* Consensus building
+* Brainstorming
+* Team meetings
+
+Team War Room
+Ideally, all of the walls are covered with whiteboards. Depending on the size of the team, the team war room may be one large room that accommodates everyone or several smaller rooms that are adjacent to a larger community-type room for group meetings and presentations. These adjacent rooms can double as breakout rooms. Each team member has his or her own private workspace, but there is a minimum number of partitions. A line of sight between each team member is ideal. The project artifacts are displayed so everyone has immediate access.
+
+Managing Scope Changes.
+Change is a way of life in project management. You might as well confront it and be prepared to act accordingly. Think of it as a mini-JPPS.
+![fig62][WysockiFig62]
+[WysockiFig62]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-6-2.png "A typical change control process"
+
+Managing Team Communications.
+Technical people often simply aren't good communicators. However, for team members to be truly effective, they have to openly communicate with one another
+
+Effectively managing communications is a critical factor for successful project
+management.
+
+About long documents. You would get more meaningful feedback by parceling out the document based on level of interest and involvement in the process, rather than asking everyone to read and comment on all 50 pages.
+
+Managing Communications with the Sponsor.
+Without sponsor involvement in all phases of the project, you will be in dire trouble. 
+  1. The first action to take when you are about to start a project is to go to the sponsor and ask what they want to know and when they want to know it.
+  2. A second consideration is to ensure that the sponsor gets information regularly. Status reports should be sent to the sponsor at least once a week
+
+Assigning Resources.
+Any organization that does not have a way of effectively handling these situations will find itself in a situation analogous to the fl ow through a funnel
+
+![fig64][WysockiFig64]
+[WysockiFig64]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-6-4.png "The resource scheduling problem"
+Too many organizations believe that by simply adding more into the top of the funnel, more will come out of the bottom.
+The resource schedule needs to be leveled for the following two reasons: 
+* To ensure that no resource is over-allocated. That is, you do not schedule a resource to more than 100 percent of its available time.
+* You, as the project manager, want the number of resources (people, in most cases) to follow a logical pattern throughout the life of the project
+
+Approaches to level project resources:
+* Utilizing available slack
+* Shifting the project finish date
+* Smoothing
 
 
-
+Work Packages.
+The __work package__ is a statement by each task manager as to how he or she plans
+to complete the task within the scheduled start and finish dates.
+![fig66][WysockiFig66]
+[WysockiFig66]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-6-6.png "Work package assignment sheet"
 
