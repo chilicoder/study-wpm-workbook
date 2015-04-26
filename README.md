@@ -438,3 +438,132 @@ to complete the task within the scheduled start and finish dates.
 ![fig66][WysockiFig66]
 [WysockiFig66]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-6-6.png "Work package assignment sheet"
 
+##Monitor & Control a TPM Project
+Here are some of the reporting tools:
+* Current period reports
+* Cumulative reports
+* Exception reports
+* Stoplight reports (stickers on the first page)
+* Variance reports
+* Gantt charts
+![fig72][WysockiFig72]
+[WysockiFig72]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-7-2.png "Gantt chart"
+* Burn charts
+![fig73][WysockiFig73]
+[WysockiFig73]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-7-3.png 
+"Burn chart"
+* Milestone trend charts
+![fig75][WysockiFig75]
+[WysockiFig75]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-7-5.png 
+"A change of more than three standard deviations"
+* Earned value analysis (EVA)
+![fig710][WysockiFig710]
+[WysockiFig710]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-7-10.png 
+"Baseline versus actual cost illustrating schedule variance"
+* Integrated milestone trend charts and EVA
+* Project status meetings
+* Problem escalation strategies
+For most projects, start gathering the information around noon on Friday. Let
+people extrapolate to the end of the workday.
+
+Establishing Your Progress Reporting System
+A reporting system has the following characteristics:
+* Provides timely, complete, and accurate status information
+* Doesn't add so much overhead time as to be counterproductive
+* Is readily acceptable to the project team and senior management
+* Has an early warning system of pending problems
+* Is easily understood by those who have a need to know
+
+Positive Variances problems.
+Positive variances can result in rescheduling to bring the project to completion early, under budget, or both. Resources can be reallocated from ahead-of-schedule projects to behind-schedule projects. Positive variances also can result from schedule slippage! Consider budget. Being under budget means that not all dollars were expended, which may be the direct result of not having completed work that was scheduled for completion during the report period
+
+Managing the Scope Bank.
+Ten percent of the total labor days would be a reasonable deposit.
+
+Building and Maintaining the Issues Log.
+Contains the following information:
+* ID number
+* Date logged
+* Description of the problem
+* Impact if not resolved
+* The problem owner
+* Action to be taken
+* Status and date
+* Outcome
+If a Risk Log is maintained, it is often integrated into the Issues Log
+
+Managing Project Status Meetings.
+You hold a status meeting to get information to the whole team. The purpose of the meeting is to encourage the free flow of information, and that means ensuring that the people who need to have information to do their jobs get the information at the status meeting.
+Status Meeting Format:
+1. The project champion reports any changes that may have a bearing on the future of the project.
+2. The client reports any changes that may have a bearing on the future of the project.
+3. The project manager reports on the overall health of the project and the impact of earlier problems, changes, and corrective actions at the project level.
+4. Activity managers report on the health of activities open or scheduled open for work since the last status meeting.
+5. Activity managers of future activities report on any changes since the last meeting that might impact project status.
+6. The project manager reviews the status of open problems from the last status meeting.
+7. Attendees identify new problems and assign responsibility for their resolution (the only discussion allowed here is for clarification purposes).
+8. The project champion, client, or project manager, as appropriate, offers closing comments.
+9. The project manager announces the time and place of the next meeting and adjourns the meeting.
+
+The 15-Minute Daily Status Meeting.
+These short status meetings were originally introduced as a tool to monitor and control APM, xPM, and MPx projects. Problems and issues are not discussed in the daily status meeting except to add them to the Scope Bank and Issues Log
+
+Defining a Problem Escalation Strategy.
+When the unplanned happens, the project manager needs to determine who owns the problem and the extent of the problem, and then take the appropriate corrective measures.
+There are three levels of escalation strategy: 
+* project team–based 
+* resource manager–based
+* client-based.
+
+The Escalation Strategy Hierarchy
+1. No action required (schedule slack will correct the problem)
+2. Examine FS dependencies for schedule compression opportunities
+3. Reassign resources from non–critical-path activities to correct the slippage.
+4. Negotiate additional resources..
+5. Negotiate multiple release strategies.
+6. Request a schedule extension from the client.
+
+Approval to Close the Project.
+In most cases, the acceptance criteria are nothing more than a checklist that reflects the client requirements.
+
+##Close a TPM Project
+Closing a Project:
+1. Getting client acceptance of deliverables
+   The ATP checklist is written in such a fashion that compliance is either dem onstrated by the test or it is not demonstrated by the test. It must be written in such a way that no interpretation is needed to determine whether compliance has been demonstrated.
+2. Ensuring that all deliverables are installed
+   Methods to install deliverables:
+   * Phased Approach
+   * Cut-Over Approach
+   * Parallel Approach
+   * By-Business-Unit Approach
+3. Ensuring that the documentation is in place
+4. Getting client sign-off on the final report
+5. Conducting the post-implementation audit
+6. Celebrating the success
+
+Documentation
+Five reasons why you need to write documentation
+* Reference for Future Changes in Deliverables
+* Historical Record for Estimating Duration and Cost on Future Projects, Activities, and Tasks
+* Training Resource for New Project Managers
+* Input for Further Training and Development of the Project Team
+* Input for Performance Evaluation by the Functional Managers of the Project Team Members
+
+Example list:
+* Project Overview Statement (POS)
+* Project proposal and backup data
+* Original and revised project schedules
+* Minutes of all project team meetings
+* Copies of all status reports
+* Design documents
+* Copies of all change notices
+* Copies of all written communications
+* Outstanding issues reports
+* Final report
+* Sample deliverables (if appropriate)
+* Client acceptance documents
+* Post-implementation audit report
+
+Celebrating Success
+There must be some recognition for the project team at the end of the project. This can be as simple as individual thank-you notes, a commemorative mug, a T-shirt, a pizza party, or tickets to a ball game; or it can be something more formal, such as bonuses
+Even though the team may have started out as a “herd of cats,” the project they have just completed has honed them into a real team. This can be a very traumatic experience for them, and they deserve closure. That is what celebrating success is all about.
