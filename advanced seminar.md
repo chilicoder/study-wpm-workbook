@@ -40,3 +40,91 @@ the navigation trace as a whole
 New Architectures
 * Authoring tools.
 * Component-based frameworks and user model servers
+
+
+##16 Modeling Users on the World Wide Web based on Cognitive Factors, Navigation Behaviour and Clustering Techniques
+__Marios Belk, Efi Papatheocharous, Panagiotis Germanakos, George Samaras__
+
+_Abstract._ This paper focuses on modeling users’ cognitive styles based on a set of Web usage mining
+techniques on user navigation patterns and clickstream data. Main aim is to investigate whether specific
+clustering techniques can group users of particular cognitive style using measures obtained from psychometric
+tests and content navigation behaviour. Three navigation metrics are proposed and utilized to find identifiable groups of users that have similar navigation patterns in relation to their cognitive style. The proposed work has been evaluated with two user studies which entail a psychometric-based survey for extracting the users’ cognitive styles, combined with a real usage scenario of users navigating in a controlled Web 2.0 environment. A total of 106 participants of age between 17 and 25 participated in the study providing interesting insights with respect to cognitive styles and navigation behaviour of users. Studies like the reported one can be useful for modeling users and assist adaptive Web 2.0 environments to organize and present information and functionalities in an adaptive format to diverse user groups.
+
+_Keywords:_ User Modeling; Cognitive Styles; Web Navigation Behaviour; Web Mining
+
+Adapting the functionality and content, of any Web-based interactive system, to
+satisfy the users’ needs and increase their level of understandability and acceptability in an intuitive
+manner and empower them to complete specific tasks more efficiently and effectively is a challenging
+endeavor.
+
+__The user model__ is a representation of static and dynamic information about an individual that is utilized by the adaptive interactive system aiming to provide adaptation effects (Bruilovsky and Millán, 2007)
+
+An increasing interest, apart from research-oriented systems, has been observed during the last few
+years from major commercial Web 2.0 service providers such as Google (http://www.google.com), Bing (http://www.bing.com), and Amazon (http://www.amazon.com) that provide personalized results and recommendations, by employing various user modeling and adaptation techniques.
+
+
+Individuals are certainly different from each other, but which would be the underlying theories that could guideresearch endeavors in producing measurable gains?
+
+holistic or analytic approach of navigation
+
+Main objectives of the paper are to: 
+* study the relation between users' cognitive styles and navigation behaviour
+* investigate whether specific data analysis techniques can group users of particular cognitive style using measures obtained from psychometric tests, and 
+* propose navigation content metrics to find identifiable groups of users that have similar navigation patterns.
+
+### User Modeling Mechanisms
+A __user model__ is created through a user modeling mechanism in which unobservable information about a user
+is inferred from observable information from that user (Frias-Martinez et al., 2005), for example, using the interactions with the system (i.e., time being active on a Web-page, buying history, ratings of products, bookmarked or saved content, etc.).
+
+User Guided Modeling.
+Rely on personal information provided by the users, typically via registration forms.
+
+Dynamic User Modeling.
+Based on implicit information, such as the navigation behaviour of users.
+Kelly and Teevan (2003) provide an overview of the most popular mechanisms for dynamically collecting implicit user information. Gauch et al. (2007) also summarize different approaches to implicit user information collection.
+
+Generating User Models.
+ (Nasraoui et al., 2008). Nasraoui et al. (2008) Clustering techniques are also used in order to divide users into segments containing users with similar navigation behaviour. Using a similarity metric, a clustering algorithm groups the most similar users together to form clusters.
+
+ _Analysis of Existing Cognitive-based Adaptive Interactive Systems_
+ The literature distinguishes a number of dimensions in which the users’ cognitive styles may differ: 
+ * field-dependent/independent, 
+ * impulsive/reflective, 
+ * conceptual/inferential, 
+ * thematic/relational, 
+ * analytic/global (Chen and Macredie, 2002; Liu and Ginther, 1999).
+
+![fig2][Belk_etcFig1]
+[Belk_etcFig1]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc-fig1.png
+"Adaptive Interactive Systems based on Individual Style Theory"
+
+Cognitive Style Theory used in the Study
+![fig3][Belk_etcFig2]
+[Belk_etcFig2]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc-fig2.png
+"Riding’s CSA Scale Mapping to Web 2.0 Environments"
+
+Experimental Study I - Results and Discussion
+![fig4][Belk_etcFig3]
+[Belk_etcFig2]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc-fig3.png
+"Clustering Results of the (a) Navigation Menu Interactions and (b) Content Link Interactions of Experimental Study I"
+
+In sum, no safe conclusion can be drawn whether cognitive styles can relate to the navigation
+behaviour of users (in regard with linear/non-linear approach). Nevertheless, our addition of two new
+classes to the Riding’s CSA (i.e., users that were classified as Intermediates and their ratio of answers
+was closer to the threshold of the Wholist or Analyst class, were classified as Light Wholists or Light
+Analysts respectively), has shown that many Wholists and many former Intermediates (and now Light
+Wholists) had linear navigation according to the metrics proposed.
+
+Experimental Study II - Results and Discussion
+Also, __results indicate that differences exist in navigation style between users (linear/non-linear),
+however, no safe conclusion can be drawn whether the navigation style can be strongly related to
+cognitive styles of users.__
+
+###Conclusions
+The clustering of users based on the proposed navigation metrics have shown promising results
+since the clustering technique grouped consistently the users based on their navigation behaviour (i.e.,
+linear/non-linear). Such results indicate that individuals navigate differently in terms of linearity
+among hyperlinks that have close semantic relationship
+
+Another future activity might include automatically predicting the cognitive style of users utilizing
+their navigation behaviour using artificial intelligence techniques.
