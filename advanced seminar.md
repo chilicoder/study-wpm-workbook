@@ -1,4 +1,4 @@
-===20 Adaptive Hypermedia
+##20 Adaptive Hypermedia
 _PETER BRUSILOVSKY_
 
 __Adapting to what__
@@ -9,7 +9,7 @@ User interests
 User's individual traits is a group name for user features that together de¢ne a user as an individual.Examples are personality factors (e.g. introvert/extravert), cognitive factors, and learning styles.
 
 *Moreover, several
-experimental studies (which have aimed to evaluate the value of treating users withdifferent individual traits differently) have concluded without ¢nding any signi¢cant differences. To progress in this area, we either need to learn more about the relation-ships between user traits and possible interface settings, or treat user traits as a blackbox and attempt to model them and adapt to them using non-symbolic technologies (Gilbert and Han, 1999).*
+experimental studies (which have aimed to evaluate the value of treating users with different individual traits differently) have concluded without ¢nding any signi¢cant differences. To progress in this area, we either need to learn more about the relation-ships between user traits and possible interface settings, or treat user traits as a blackbox and attempt to model them and adapt to them using non-symbolic technologies (Gilbert and Han, 1999).*
 
 Usage data
 Environment data
@@ -26,7 +26,7 @@ Second, the rise of recommender systems makes it necessary to distinguish betwee
 Future Trends(2001).
 * Integration with other applications
 ![fig1][Brusilovsky2001Fig1]
-[Brusilovsky2001Fig1]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/brusilovsky-fig1.png 
+[Brusilovsky2001Fig1]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/brusilovski-fig1.png
 "Figure 1. The updated taxonomy of adaptive hypermedia technologies."
 
 * Open corpus adaptive hypermedia
