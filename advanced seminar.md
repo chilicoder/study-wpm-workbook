@@ -4,7 +4,7 @@ _PETER BRUSILOVSKY_
 __Adapting to what__
 
 User data.
-Goals/tasks, knowledge, background, and preferences were modeled and used for making adaptation decisions by many new systems.
+Goals/tasks, knowledge, background, and preferences were modelled and used for making adaptation decisions by many new systems.
 User interests
 User's individual traits is a group name for user features that together de¢ne a user as an individual.Examples are personality factors (e.g. introvert/extravert), cognitive factors, and learning styles.
 
@@ -105,7 +105,7 @@ Cognitive Style Theory used in the Study
 
 Experimental Study I - Results and Discussion
 ![fig4][Belk_etcFig3]
-[Belk_etcFig2]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc-fig3.png
+[Belk_etcFig3]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc-fig3.png
 "Clustering Results of the (a) Navigation Menu Interactions and (b) Content Link Interactions of Experimental Study I"
 
 In sum, no safe conclusion can be drawn whether cognitive styles can relate to the navigation
@@ -128,3 +128,65 @@ among hyperlinks that have close semantic relationship
 
 Another future activity might include automatically predicting the cognitive style of users utilizing
 their navigation behaviour using artificial intelligence techniques.
+
+##01 User Cognitive Style and Interface Design for Personal, Adaptive Learning. What to Model?
+_ELIZABETH URUCHRUTU, LACHLAN MACKINNON, ROGER RIST_
+
+..see presentatition
+
+##21 Towards implicit user modeling based on artificial intelligence, cognitive styles and web interaction data
+_EFI PAPATHEOCHAROUS, MARIOS BELK, PANAGIOTIS GERMANAKOS, GEORGE SAMARAS_
+
+###intro
+Approaches for Web adaptation and personalization:
+* cultural preferences of users, 
+* adaptive spellchecker and predictor for people with dyslexia
+* implicit user modeling approach that automatically adapts the layout and position of virtual keyboards based on how and where users are grasping the tablet device.
+
+personalized services
+
+Content-based filtering.
+The weights indicate the importance of each feature to the user.
+
+main aim is to increase our understanding about the effect of cognitive styles of users on their navigation behavior, but as well as the content representation they prefer the most and increase their overall user experience.
+
+We investigate whether users with common cognitive characteristics have the tendency to follow exactly the same nodes in the hypermedia environment.
+
+###User Modeling
+Cognitive styles.
+Verbal/Imager dimension that refers to how individuals process information and indicates their preference for representing information verbally (Verbals) or in mental pictures (Imagers)
+a Wholist/Analyst dimension that refers to how individuals organize information and indicates a preference of structuring information as a whole (Wholists) or structuring the information in segmented parts (Analysts).
+
+![fig5][Papatheocharous_etcFig1]
+[Papatheocharous_etcFig1]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/papatheocharous-fig1.png
+"Figure 1. Riding’s CSA Scale Mapping to Web Environments”
+
+Explicit user model generation approaches usually result in user models becoming inaccurate over time.
+
+The data mining techniques reported enable pattern discovery through clustering, classification, association rules, and Markov chains for Web personalisation purposes.
+
+So, instead of monitoring usage, this paper proposes an alternative approach to user modeling by monitoring the users’ sequence of links visited in a Web environment through an online tool that utilises specific user interaction metrics
+
+###Study.
+78 undergraduate students of the University of Cyprus
+
+The participants first completed the cognitive styles elicitation process utilising Riding’s CSA test [7], and further navigated in a reproduced version of Wikipedia.org
+
+participants were assigned 10 problem-based tasks whose answers could be found inside the Wikipedia articles 
+
+###Results
+![fig6][Papatheocharous_etcFig2]
+[Papatheocharous_etcFig2]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/papatheocharous-fig2.png
+"Figure 6. Clusters formed based on Total Viewing Time for each Cognitive Styles Group”
+
+the clustering method distinguished users in two clusters indicating that users had differing navigation behavior.
+
+In this respect, no safe conclusions can be drawn whether users with similar cognitive styles have the same navigation behaviour. 
+
+![fig7][Papatheocharous_etcFig3]
+[Papatheocharous_etcFig3]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/papatheocharous-fig3.png
+“Figure 8. Clusters formed based on the Sequence Vectors for each Cognitive Styles Group“
+###Conclusions
+In sum, results revealed that cognitive styles of users (taking into account the Verbal/Imager dimension) could be inferred, i.e., a strong significant relationship was found between the users’ cognitive styles and preference toward a specific type of content, based on their total viewing time of Web-pages that contain visual or verbal information. 
+
+he clustering of users, based on the sequence vectors has shown some promising results and was effective to locate users with similar navigation behavior and in the same cognitive typology.
