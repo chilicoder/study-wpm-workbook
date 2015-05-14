@@ -191,7 +191,7 @@ In sum, results revealed that cognitive styles of users (taking into account the
 
 he clustering of users, based on the sequence vectors has shown some promising results and was effective to locate users with similar navigation behavior and in the same cognitive typology.
 
-## Integrating Human Factors and Semantic Mark-ups in Adaptive Interactive Systems
+##07 Integrating Human Factors and Semantic Mark-ups in Adaptive Interactive Systems
 _Marios Belk, Panagiotis Germanakos, Efi Papatheocharous, Panayiotis Andreou, George Samaras_
 
 Main aim of this work is to investigate the added value of personalising content and functionality of Web environments based on the unique cognitive characteristics of users. 
