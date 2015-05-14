@@ -190,3 +190,91 @@ In this respect, no safe conclusions can be drawn whether users with similar cog
 In sum, results revealed that cognitive styles of users (taking into account the Verbal/Imager dimension) could be inferred, i.e., a strong significant relationship was found between the users’ cognitive styles and preference toward a specific type of content, based on their total viewing time of Web-pages that contain visual or verbal information. 
 
 he clustering of users, based on the sequence vectors has shown some promising results and was effective to locate users with similar navigation behavior and in the same cognitive typology.
+
+## Integrating Human Factors and Semantic Mark-ups in Adaptive Interactive Systems
+_Marios Belk, Panagiotis Germanakos, Efi Papatheocharous, Panayiotis Andreou, George Samaras_
+
+Main aim of this work is to investigate the added value of personalising content and functionality of Web environments based on the unique cognitive characteristics of users. 
+
+###Introduction
+
+In a technical point of view, an important challenge of designing an effective adaptive interactive system is to study and incorporate structures of meta-data (i.e., semantics) at the Web content provider’s side, as well as propose the construction of a Web-based adaptation mechanism that will serve as an automatic filter, adapting the distributed Web content based on the user characteristics.
+
+a complete adaptation framework embracing: 
+1) user modeling techniques for eliciting the cognitive characteristics of users, 
+2) an authoring tool for supporting Web content providers throughout the creation of machine- understandable content, and 
+3) an intelligent adaptation mechanism for dynamically reconstructing the semantic-based content and functionality of the Web environment. 
+
+Effective personalisation of Web content and functionality in adaptive interactive systems involves two important challenges:
+1) appropriate user modelling dealing with what information is important to be incorporated in the system
+2) appropriate adaptation procedures dealing with what adaptation types and mechanisms are most effective
+
+it is also necessary to study and design the structure of semantics in the context of adaptive interactive systems
+###Semantic Web Technologies
+Ontologies have been proven an effective means for enabling semantic-driven data processing
+
+Authoring tools in the context of adaptive interactive systems have been proposed in the past as part of adaptive educational systems.
+
+###Semantic-based adaptation framework
+The framework consists of the following interconnected layers: 
+1) *User Modelling*, for extracting the demographic (i.e., age, gender, profession) and cognitive characteristics of users, 
+  1) Cognitive styles
+  2) Working Memory Capacity. Working memory capacity was elicited through a psychometric test that requires from the participants to memorise an abstract image and then compare that image with five other similar images.
+
+2) *Semantic Authoring Tool*, for the creation of semantically- enriched, machine-understandable content. In particular, a customised version of Wordpress has been developed and extended to enable the creation process of Web content with specific RDFa tags.
+![fig8][Belk_etc2Fig1]
+[Belk_etc2Fig1]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc2-fig1.png
+“Figure 2: Personalisation and Adaptation Process“
+3) *Adaptation Mechanism*, that performs various adaptation rules obtained by experts and which are based on the user models and the semantically-enriched content, and 
+4) *Adaptive User Interface*, that presents the Web content in an adapted format and through adapted navigation controls based on the users’ cognitive characteristics.
+
+###Study
+70 undergraduate students
+
+participants provided demographic information such as, name, age, education, etc.
+
+the participants navigated in a commercial Web-site selling computer products that was developed for the purpose of the experiment.
+
+As soon users completed answering all questions in both versions, they were presented with a comparative satisfaction questionnaire based on WAMMI questionnaire
+
+###Results
+![fig9][Belk_etc2Fig2]
+[Belk_etc2Fig2]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc2-fig2.png
+“Table 1: Cognitive Factors of Participants“
+
+*Task Completion Performance*
+![fig10][Belk_etc2Fig3]
+[Belk_etc2Fig3]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc2-fig3.png
+“Table 2: Means of Overall Performance per Cognitive Style Group“
+The analysis of variance (ANOVA) indicates that users belonging to the Wholist and Intermediate classes performed considerably faster in the personalised version of the environment than in the original version (Wholist: F(1,47)=2.999, p=0.09, Intermediate: F(1,25)=2.699, p=0.11).
+
+With regard to the Verbal/Imager dimension, the analysis revealed that Verbals and Imagers performed considerably faster in the personalised version of the environment than in the original version
+
+![fig11][Belk_etc2Fig4]
+[Belk_etc2Fig4]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/belk_etc2-fig4.png
+users with limited working memory capacity performed faster in the personalised version
+
+Users with intermediate and enhanced working memory capacity did not perform significantly different in either of the two environments since these two user classes did not receive any tool for comparing different products
+
+*Task Accuracy*
+Users in the personalised version were consistently more accurate in providing the correct answer for each task. 
+
+although the difference of accuracy between the two versions was not significant in many cases, results are encouraging for the proposed mechanism, implying that adaptation on the basis of these cognitive factors (cognitive style and working memory capacity) provides adaptation effects that benefits users within an eCommerce environment.
+
+*User Satisfaction*
+Results revealed that 51 users (71.83%) preferred the personalised environment and 18 users (25.35%) preferred the original environment, while 1 user had neutral preference.
+
+relationship between the users’ performances and preferred environment. 
+The analysis showed that out of 21 users that performed slower in the personalised version, 18 users (85%) preferred the personalised environment, and out of 49 users that performed faster in the personalised version, 34 users (69%) preferred the personalised environment, whereas 15 users preferred the non-personalised environment.
+
+###Discussion
+the personalisation provided seems to have benefited primarily the Wholist and Intermediate users, and also users with limited working memory capacity. This might be explained by the fact that Wholists tend to rely more on information provided from the outside world and therefore require more guidance in navigation, in comparison to Analysts
+
+###Conclusion
+It was demonstrated that users’ information finding ability was considerably more accurate and efficient in the personalised version rather than the original version of the same environment.
+
+co-worked with PersonaWeb project
+
+
+
+
