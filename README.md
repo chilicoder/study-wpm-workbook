@@ -78,12 +78,19 @@ At least 70 percent of all their projects are APM projects, 20 percent are TPM p
 > * Creation prototypes and evaluating them against AP (in software development it's basically the same)
 > * Producing experimental series (in sofware development puting the to the test environment)
 > * Production (releasing final version of the product)
+
 > [Link for Engineering design process in Wiki] (https://en.wikipedia.org/wiki/Engineering_design_process#Production_planning_and_tool_design)
 
 ###Traditional Project Management
 20% of projects. Infrastructure projects. 
 TPM projects are change-intolerant. RBS and WBS are relatively complete. High expenses for change.
 Well-known technology. Skilled and well organized team. Well known risks. 
+> The examples of TPM projects:
+> * Assemble a cabinet from IKEA using a scheme.
+> * Digging 10 equal holes.
+> * Paining a wall in your new apartment.
+> * Cooking a cake with recipe.
+> * Build a house using typical scheme.
 
 _Linear PMLC model._ 
 ![fig22][WysockiFig22]
