@@ -178,7 +178,9 @@ The goal is often not much more than a guess at a desired end state with the hop
 
 > Of cause, this plan won't work. After 3 month it will appear, that we accuired a few customers, far away from 100. Or even the product is still in designing phase. Some managers will start to blame the team of the project. And it will be natural, since the goal is very clear and the plan is very clear. 
 
-> So, whats wrong? The key to the answer is partially in the concept of [SMART goals.](https://en.wikipedia.org/wiki/SMART_criteria#Other_definitions)
+> So, whats wrong? The key to the answer is partially in the concept of [SMART goals.](https://en.wikipedia.org/wiki/SMART_criteria#Other_definitions) Our goal is Specific, Measurable and Time-bound. And maybe it is even Relevant. But we have no evidences that it is Achievable. Why 1000? Why not 10000? Or maybe 100? or 10? Wishes are only wishes they can't substitute plans.
+
+> In our case, it would be better to reformulate the goal to "In 3 months get the way how to accuire customers with the new marketing product" And the acceptance creteria is "Accuire 1-10 new customers."
 
 
 
