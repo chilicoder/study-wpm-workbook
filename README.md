@@ -71,6 +71,14 @@ The more uncertaincy we get the less detailed planning for the whole project we 
 
 ### PMLC model pie
 At least 70 percent of all their projects are APM projects, 20 percent are TPM projects, and the remaining 10 percent is split between xPM and MPx projects
+> This is very valuable numbers. I wish, I knew them at the start of my career. Too many projects I tried to do in TPM style. In our company we even have some training, but it was only about TPM. I always had a feeling that all my plans and WBS will become useless (and they were) and if any document about the project is more then 1-2 pages then it won't be usefull. 
+> I think in Web development the numbers are even less for the TPM. The reason is that creation of the sofware is not an analogue of the factory production, that is mistakenly taken. In software development the analogue of production is **compiling**. And this phase actually takes not much time comparing to the other phases of creation of software product. The right analogue to software development from the factory production is the process of designing of the product. Then the stage mapping can be something like this: 
+> * Wrining technical requirements
+> * Writing acceptance procedures (AP)
+> * Creation prototypes and evaluating them against AP (in software development it's basically the same)
+> * Producing experimental series (in sofware development puting the to the test environment)
+> * Production (releasing final version of the product)
+> [Link for Engineering design process in Wiki] (https://en.wikipedia.org/wiki/Engineering_design_process#Production_planning_and_tool_design)
 
 ###Traditional Project Management
 20% of projects. Infrastructure projects. 
@@ -99,10 +107,13 @@ Examples:
 * A Critical Problem without a Known Solution
 * A Previously Untapped Business Opportunity
 
-> In my career I several times experienced with the situation when people think about problems without known solution in terms of TPM. Especially, this can be dramatically when this people are managers. One of the reason, why they try to put the project in TPM frames - uncertaincy. For them it decreases when they produce some plan. When it has some dates it looks like *real*. The confusion is that estimates doesn't make the solution real and level of uncertancy less. Only research, experiment, evaluation, rethinking and new research and experiments. But actually this is the point of Agile project Management.
+> I several times experienced with the situation when people think about problems without known solution in terms of TPM. Especially, this can be dramatically when this people are managers. One of the reason, why they try to put the project in TPM frames - uncertaincy. For them it decreases when they produce some plan. When it has some dates it looks like *real*. The confusion is that estimates doesn't make the solution real and level of uncertancy less. Only research, experiment, evaluation, rethinking and new research and experiments. But actually this is the point of Agile project Management.
 
 APM projects are change-driven. APM are “lean” in terms of planning resources. They utilize just-in-time planning models.
 The solution will be discovered only if the client and the development team meaningfully collaborate in an open and honest environment.
+
+> I totally agree with this point. 
+
 APM approaches do not scale well. To manage a 30+ project team, partition it into smaller teams, with each of these teams being responsible for part of the scope
 
 APM approaches all have one thing in common — you cannot build a complete WBS without guessing. The choice
