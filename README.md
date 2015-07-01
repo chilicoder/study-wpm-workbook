@@ -96,6 +96,7 @@ _Linear PMLC model._
 ![fig22][WysockiFig22]
 [WysockiFig22]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-2.png "Lenear PMLC Model"
 There is no going back to improve deliverables.
+> Example: Cooking a cake. 
 
 _Incremental PMLC model._ 
  The complete solution is known at the outset
@@ -103,10 +104,11 @@ _Incremental PMLC model._
 [WysockiFig23]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-3.png "Incremental PMLC Model"
 
 Differences from Linear.
-*Deliverables in the Incremental approach are released according to a
-schedule.
+* Deliverables in the Incremental approach are released according to a schedule.
 * Encourages change requests.
 * Often extensive re-planning follows, significantly changing the release schedule.
+
+> Example: Cooking 5 cakes.
 
 ###Agile Project Management
 The vast majority of their projects are a closer fit to APM approaches than either TPM or xPM approaches
@@ -123,6 +125,10 @@ The solution will be discovered only if the client and the development team mean
 
 APM approaches do not scale well. To manage a 30+ project team, partition it into smaller teams, with each of these teams being responsible for part of the scope
 
+> I think, the communicational aspect is very important. My idea is that in uncertain condition the whole team must share actual information about the project in realtime. People must understand what other are doing at the moment to act cohesively. All recently resolved or revealed problems must be exposed to all members. But even if you organize the communicational flow in your 30+ people team effectively and all will get all information immediately, the amount of information would be too big, your team members wouldn't be able to process all this information.
+
+> In TPM project it is not so important. The main task for the members is to follow the plan. The role of communication increases only if somebody can't follow the plan.
+
 APM approaches all have one thing in common — you cannot build a complete WBS without guessing. The choice
 of which model to use depends somewhat on the initial degree of uncertainty you have about the solution.
 
@@ -131,6 +137,10 @@ _Iterative PLMC Model_
 [WysockiFig24]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-4.png "Iterative PMLC Model"
 
 Differs from the Incremental PMLC model in that change is expected. The development team usually takes client input and presents alternatives in the next version of the prototype.
+
+> Example: Making a fancy haircut. 
+> Example 2: Footbal team that plays match. 
+> Building a landing page using well-known CMS.
 
 _Adaptive PLMC Model_
 the less you know about the solution, the more likely you will choose
@@ -141,7 +151,8 @@ an Adaptive PMLC model over an Iterative PMLC model.
 
 ###Extreme Project Management
 Pure R & D, new product development, and process improvement projects
-Example: Building a business-to-business (B2B) website with no further specification.
+
+> Example: Building a business-to-business (B2B) website with no further specification.
 
 In most cases, there is no fixed budget or time line. Obviously, the client wants it completed ASAP for as little as possible.
 
