@@ -660,3 +660,73 @@ Twelve principles of Agile Software:
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+## Belonging
+### cards for presentation
+```
+Ill start with aspect
+Mythologies  
+
+shared histories (real or imagined) that express values of the community. 
+Communities use these stories to illustrate values and to inspire desired behavior.
+They provide members with a moral compass in situations that are important to the community.
+
+In modern times, we still use mythologies to show members of a community what they should value.
+they can be used to help members of the network and community understand how to respond in particular kinds of situations and how to interact with others.So, what techniques we can use in order to build this aspect
+TECHNIQUES
+create a “Share Stories Archive ”
+To do this asked some of the leaders in the network to “seed” the discussion
+possible topics for the stories might be about initial rituals in the community or some remarkable achievements
+After that usually other members start to contribute their own stories
+
+A last, individual members can also use the same storytelling technique to create a persona for themselves within a community.
+
+negative myths
+
+ negative myths serve to warn members against prohibited behaviors
+
+Another point is to get
+ a “bard” who, like the medieval bards of old, has the responsibility of collecting the stories of the group.
+
+next aspect of Belonging is 
+Protocols, routines, and Schemas 
+
+Protocols, routines, and schemas are ritualized behaviors that members of a community use in two ways: 
+(1) to identify and greet other members and 
+(2) to understand the correct behaviors to use in different social situations.
+
+Schemas are sets of preprogrammed procedures used in potentially difficult social situations to keep those situations from embarrassing us.
+
+Protocols are like schemas, but they’re not tacit.
+They’re like rules of the road.
+
+Routines are also protocols; just protocols that are happening repeatedly. 
+Routines help ensure sustainability and minimize conflict.
+
+
+As and example of technique lets consider a group of very successful and very strong-willed professionals with which Tharon Howard worked
+
+This particular group was mostly male, and it was fairly big problem with resolving conflicts
+So called “Fight club rules” were introduced.
+
+The soap bar 
+became, a badge of shame that the person would have to keep until someone else on the team “earned” the soap bar.
+several of the members stated bluntly that they thought it was a “stupid game” and stated that they would refuse to use the soap bar on their posts
+
+
+but once the protocol was in place, earning the soap bar and not using it showed a degree of contempt for the entire community that only few in the group were willing to risk.
+
+
+
+Brief defenition
+Why is it important
+Give example
+Further points
+
+
+CHECKLIST OF TECHNIQUES1. Create and distribute a story of origin2. Create an initiation ritual3. Encourage your leaders and elders to share mythologies   Use negative myths4. Encourage members to share myths and stories about themselves5. Create leveling up ceremonies   Use podcasts6. Establish routines and protocols   “Fight Club” protocol7. Establish symbols, colors, and visual identities8. Use a membership application as an initiation ritual
+
+
+How to keep balance between exclusivity and popularity?
+What kind of vision should be shared by story in technique 1? 
+```
