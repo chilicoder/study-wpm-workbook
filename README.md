@@ -62,9 +62,9 @@ of processes that includes:
 We choose approach basing on level of goals clearness. 
 
 
-> I'm still have a general questions,  How to describe Business values? How to make constrains? The business can say.. we want to get 10 or 100 or 1000 customers... let us make a project to do it. *How to separate groundless wishes from reasonable goals?*
+> I'm still have a general questions,  How to describe Business values? How to make constrains? The business can say.. we want to get 10 or 100 or 1000 customers... let us make a project to do it. **How to separate groundless wishes from reasonable goals?**
 
-> Or maybe better formulation of the question is: *How to separate business goals from project goals?*
+> Or maybe better formulation of the question is: **How to separate business goals from project goals?**
 Achieve business goals is a project? Or project is to get business value (make revenue generator) which helps to achieve business goal? 
 
 The more uncertaincy we get the less detailed planning for the whole project we need in the beginning. It doesn't mean that we need less planning, 
@@ -98,6 +98,8 @@ The vast majority of their projects are a closer fit to APM approaches than eith
 Examples:
 * A Critical Problem without a Known Solution
 * A Previously Untapped Business Opportunity
+
+> In my career I several times experienced with the situation when people think about problems without known solution in terms of TPM. Especially, this can be dramatically when this people are managers. One of the reason, why they try to put the project in TPM frames - uncertaincy. For them it decreases when they produce some plan. When it has some dates it looks like *real*. The confusion is that estimates doesn't make the solution real and level of uncertancy less. Only research, experiment, evaluation, rethinking and new research and experiments. But actually this is the point of Agile project Management.
 
 APM projects are change-driven. APM are “lean” in terms of planning resources. They utilize just-in-time planning models.
 The solution will be discovered only if the client and the development team meaningfully collaborate in an open and honest environment.
@@ -670,7 +672,9 @@ Communities use these stories to illustrate values and to inspire desired behavi
 They provide members with a moral compass in situations that are important to the community.
 
 In modern times, we still use mythologies to show members of a community what they should value.
-they can be used to help members of the network and community understand how to respond in particular kinds of situations and how to interact with others.So, what techniques we can use in order to build this aspect
+they can be used to help members of the network and community understand how to respond in particular kinds of situations and how to interact with others.
+
+So, what techniques we can use in order to build this aspect
 TECHNIQUES
 create a “Share Stories Archive ”
 To do this asked some of the leaders in the network to “seed” the discussion
@@ -679,7 +683,8 @@ After that usually other members start to contribute their own stories
 
 A last, individual members can also use the same storytelling technique to create a persona for themselves within a community.
 
-negative myths
+
+negative myths
 
  negative myths serve to warn members against prohibited behaviors
 
@@ -722,7 +727,18 @@ Give example
 Further points
 
 
-CHECKLIST OF TECHNIQUES1. Create and distribute a story of origin2. Create an initiation ritual3. Encourage your leaders and elders to share mythologies   Use negative myths4. Encourage members to share myths and stories about themselves5. Create leveling up ceremonies   Use podcasts6. Establish routines and protocols   “Fight Club” protocol7. Establish symbols, colors, and visual identities8. Use a membership application as an initiation ritual
+CHECKLIST OF TECHNIQUES
+1. Create and distribute a story of origin
+2. Create an initiation ritual
+3. Encourage your leaders and elders to share mythologies
+ Use negative myths
+4. Encourage members to share myths and stories about themselves
+5. Create leveling up ceremonies
+ Use podcasts
+6. Establish routines and protocols
+ “Fight Club” protocol
+7. Establish symbols, colors, and visual identities
+8. Use a membership application as an initiation ritual
 
 
 How to keep balance between exclusivity and popularity?
