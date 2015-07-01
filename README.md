@@ -139,7 +139,9 @@ _Iterative PLMC Model_
 Differs from the Incremental PMLC model in that change is expected. The development team usually takes client input and presents alternatives in the next version of the prototype.
 
 > Example: Making a fancy haircut. 
+
 > Example 2: Footbal team that plays match. 
+
 > Building a landing page using well-known CMS.
 
 _Adaptive PLMC Model_
@@ -151,8 +153,7 @@ an Adaptive PMLC model over an Iterative PMLC model.
 
 ###Extreme Project Management
 Pure R & D, new product development, and process improvement projects
-
-> Example: Building a business-to-business (B2B) website with no further specification.
+Example: Building a business-to-business (B2B) website with no further specification.
 
 In most cases, there is no fixed budget or time line. Obviously, the client wants it completed ASAP for as little as possible.
 
