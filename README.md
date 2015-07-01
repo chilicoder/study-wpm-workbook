@@ -61,13 +61,11 @@ of processes that includes:
 [WysockiFig21]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-1.png "PML approaches"
 We choose approach basing on level of goals clearness. 
 
-```
-I'm still have a general questions, 
-How to describe Business values? How to make constrains? The business can say.. we want to get 10 or 100 or 1000 customers... let us make a project to do it. __How to separate groundless wishes from reasonable goals?__ 
 
-Or maybe better formulation of the question is: __How to separate business goals from project goals?__
+> I'm still have a general questions,  How to describe Business values? How to make constrains? The business can say.. we want to get 10 or 100 or 1000 customers... let us make a project to do it. *How to separate groundless wishes from reasonable goals?*
+
+> Or maybe better formulation of the question is: *How to separate business goals from project goals?*
 Achieve business goals is a project? Or project is to get business value (make revenue generator) which helps to achieve business goal? 
-```
 
 The more uncertaincy we get the less detailed planning for the whole project we need in the beginning. It doesn't mean that we need less planning, 
 
