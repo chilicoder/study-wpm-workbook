@@ -163,6 +163,25 @@ _We need to clarify the goal. For this we can use Probative Swim Lanes approach.
 
 The goal is often not much more than a guess at a desired end state with the hope that a solution to achieve it can be found
 
+> Here I describe a naive approach of doing a plan for such a project. I often saw it when people have only scrappy knowledges about project management and dwell in frames of TPM. 
+
+> Let say we want to achieve a goal of 1000 new customers. And we have an idea, let's say some new marketing product for that. And of couse we want them quickly... so lets define the time constraints in one year. One year is a good, big and the most important defined constrains (Actually, if people estimate some task in one year is is a good sign that they completely don't know how to reach the goal).  So, we have pretty good defined goal of the project. It is specific (new customers), it is measurable (1000) and it is time-bound (one year) and also we know how (with new marketing product). 
+
+> But it seems the task is too big. We need to devide it into pieces. Ok, lets create milestones:
+
+> 1) After third month we will accuire 100 customers.
+> 2) After six months we will accuire 300 customers.
+> 3) After nine months we will accuire 600 customers.
+> 4) In one year we will get 1000 customers. 
+
+> Sounds reasonable. So, lets do it!
+
+> Of cause, this plan won't work. After 3 month it will appear, that we accuired a few customers, far away from 100. Or even the product is still in designing phase. Some managers will start to blame the team of the project. And it will be natural, since the goal is very clear and the plan is very clear. 
+
+> So, whats wrong? The key to the answer is partially in the concept of [SMART goals.](https://en.wikipedia.org/wiki/SMART_criteria#Other_definitions)
+
+
+
 Difference between APM and xPM PMLC. 
 * In an APM project, scope is done once at the beginning of the project. In the xPM project, scope is adjusted at each phase.
 * In many xPM projects, the client
