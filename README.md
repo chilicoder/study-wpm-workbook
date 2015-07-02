@@ -331,6 +331,8 @@ problem.
 |Prototyping  |Innovative ideas can be generated. Users clarify what they want. Users identify requirements that may be missed.Client-focused. Early proof of concept.Stimulates thought processes. |Client may want to implement the prototype. Difficult to know when to stop. Specialized skills are required. Absence of documentation. |
 |Requirements Workshop |Good way for first-time users. |May overwhelm customer. |
 
+> I think smart combination of several approaches can increase efficiency. For example, make a Requirements workshop that will provide base for prototyping. And after presenting prototypes make and Interview. 
+
 ![tab42][WysockiTab42]
 [WysockiTab42]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-tab-4-2.png "Mapping of the Ten Knowledge Areas to the Five Process Groups"
 
@@ -340,11 +342,11 @@ The POS is a short document (ideally one page) that concisely states what is to 
 The POS has the following five component parts:
 * Problem or opportunity
 * Project goal
-   __Specific__ Be specific in targeting an objective.
-   __Measurable__ Establish measurable indicators of progress.
-   __Assignable__ Make the object assignable to one person for completion.
-   __Realistic__ State what can realistically be done with available resources.
-   __Time-related__ State when the objective can be achieved - that is, the duration.
+   * __Specific__ Be specific in targeting an objective.
+   * __Measurable__ Establish measurable indicators of progress.
+   * __Assignable__ Make the object assignable to one person for completion.
+   * __Realistic__ State what can realistically be done with available resources.
+   * __Time-related__ State when the objective can be achieved - that is, the duration.
 * Project objectives
 * Success criteria
 * Assumptions, risks, and obstacles
