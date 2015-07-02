@@ -238,7 +238,7 @@ TPM - "B" players (or even "C")
 APM -  "B" players with supervision of "A" player often sufficient
 The less you know about the solution, the more you are going to have to staff your project with “A” players
 
-> I aggree with this point. At least, for web project management projects. The problem is that unexperienced players have small chances to contribute into solutions, to decrease level of uncertaincy. There are much arias of uncertaincy for them which are clear to experienced players. And they have to clarify this arias before start to produce additional value. 
+> I aggree with this point. At least, for web project management projects. The problem is that unexperienced players have small chances to contribute into solutions, to decrease level of uncertaincy. There are many arias of uncertaincy for them which are clear to experienced players. And they have to clarify this arias before start to produce additional value. 
 
 > Supervision works only in TPM and APM projects. The reason is that "A" player with high level of confidence **must know the solution** of task for the guided players. In that case he can quickly review their solutions and identify weak points. 
 
@@ -261,7 +261,14 @@ Project Cost Management
 Project Quality Management
 Project Human Resource Management
 _Project Communications Management_
-As many as 70 percent of the IS/IT project failures can be traced back to poor communications
+As many as **70 percent of the IS/IT project failures can be traced back to poor communications**
+
+> Aggree. Communication for the team is like oil for engine. It will creaks and give no power without oil. And pretty soon it will brake. 
+
+> Remember, that IS/IT projects usually are XPM or pretty close to them. And since that, influence of communicational aspect is high. We need to perform team building activities to organize a group of individuals into team. Reveal leaders, instantiate communication flows, resolve personal conflicts. 
+
+> Sometimes, highly organized and motivated team is itself the result of the project. But if we want to increase chances of successfully achieving the goal, we should organize the team before or at the early stage of the project.
+
 A good communications management process will have provisions in the process that answer the following questions:
 * Who are the project stakeholders?
 * What do they need to know about the project?
