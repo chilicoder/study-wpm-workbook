@@ -293,11 +293,15 @@ Stakeholder types:
 * Project managers
 * Business analysts
 
+> Revealing stakeholders is also one of the initial activities in interaction design.
+
 ![tab33][WysockiTab33]
 [WysockiTab33]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-tab-3-3.png "Mapping of the Ten Knowledge Areas to the Five Process Groups"
 
 The Process Groups are the building blocks of project management methodologies. Similarly,
 by selecting and adapting the processes within a Process Group, you can establish the specific processes that drive a PMLC. So the processes within a Process Group are the detailed building blocks of the phases of the PMLC.
+
+> I experince a lack of examples here and can't understand the value of this matrix. Feels like 
 
 ###Ch4 Scoping in TPM
 Managing Client Expectations
@@ -305,13 +309,21 @@ Wants versus Needs
 __Wants and needs are closely linked to one another but are fundamentally
 different__ Client wants tend to be associated with a solution
 to a problem that they envision. Needs tend to be associated with the actual
-problem. __Ask the client why they want what they want__
+problem. 
+
+**Ask the client why they want what they want**
+
+> This point is crucial. From my experience in majority of cases people don't tell their problem they tell their vision on how this problem can be solved. Often, due to the fact that they are experts in problem domain, but they are not experts in solution domain, this suggestions are hard to implement and they poorly solves the real underlying problem. 
+
+> Identifying and articulating the real problem of the client is the main task on the stage of analysis. It will give more flexibility to solution experts and also provides better acceptance rules.
+
 
 ![fig44][WysockiFig44]
 [WysockiFig44]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-4-4.png "The Stakeholder Interaction Model"
 
 
-__Selected Methods for Eliciting Requirements from Business Needs__
+**Selected Methods for Eliciting Requirements from Business Needs**
+
 | METHOD | STRENGTHS | RISKS |
 |----| --------------------| -------------|
 |Facilitated Group Sessions  | Excellent for cross-functional processes.Detailed requirements can be documented and verified immediately. Resolves issues with an impartial facilitator. | Use of untrained facilitators can lead to a negative response from users. The time and cost of the planning and/or executing session can be high.|
