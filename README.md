@@ -186,9 +186,15 @@ The goal is often not much more than a guess at a desired end state with the hop
 
 Difference between APM and xPM PMLC. 
 * In an APM project, scope is done once at the beginning of the project. In the xPM project, scope is adjusted at each phase.
-* In many xPM projects, the client
-takes a leadership position instead of the collaborative position they took in
+* In many xPM projects, the client takes a leadership position instead of the collaborative position they took in
 APM projects.
+
+> The question is how to engage client to take leadership in such project. He can take the position "For what I pay my money? I want to pay money for the solutions. And you propose me to solve my problems by myself and also pay money for this. 
+
+> Some strategies to change this position
+> 1) Don't work with this client
+> 2) Explain, that he pays for your experience and skills that will supplement his experience in effort to solve problem that was unsolved before.
+> 3) ...
 
 
 _Extreme PLMC Model_
@@ -200,6 +206,10 @@ Example: Drug research
 
 xPM requires the client to be more involved within and between phases.
 
+> Since such projects involve two or more  companies with possibly different corporate culture and so on. Thus, we need to organize some team building activities and carefuly choose communication models. 
+
+> Obviously, the profile of client as a company or person matters in eX projects, since he will play big part in main effort of the project. Conversaly, in TPM projects (and Incremental and Iterative) the profile of the client is not so important. 
+
 ###Emertxe Project Management 
 The solution is known, but the goal is not. Type of R & D project but in reverse. You hope to find a business value for application of your solution. The scheme is similar to xPM
 
@@ -207,9 +217,13 @@ MPx characteristics
 * A New Technology without a Known Application
 * A Solution Out Looking for a Problem to Solve (New software system introduced and you try to find how it can be useful to your company)
 
+> Interesting type. I should read more about it.
+
 ###Choosing a model 
 ![fig28][WysockiFig28]
 [WysockiFig28]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-2-8.png "PMLC model choice process"
+
+> The key point: Every project starts with writing Project Overview Statement. This document will be like light from lighthouse for all other documents. 
 
 Other factors that can affect:
 * Total Cost
@@ -224,6 +238,11 @@ TPM - "B" players (or even "C")
 APM -  "B" players with supervision of "A" player often sufficient
 The less you know about the solution, the more you are going to have to staff your project with “A” players
 
+> I aggree with this point. At least, for web project management projects. The problem is that unexperienced players have small chances to contribute into solutions, to decrease level of uncertaincy. There are much arias of uncertaincy for them which are clear to experienced players. And they have to clarify this arias before start to produce additional value. 
+
+> Supervision works only in TPM and APM projects. The reason is that "A" player with high level of confidence **must know the solution** of task for the guided players. In that case he can quickly review their solutions and identify weak points. 
+
+> In eXPM projects this doesn't work because even experienced players doesn't know the solution. So, they can't guide effectively. I saw many times, when experienced developers spend much time trying to understand weak solutions of juniors and in the end just give up and write the solution by themselves. 
 
 ## Project Management Process Groups
 * _Scoping Process Group_ (which PMI calls the Initiating Process Group)
