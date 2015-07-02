@@ -351,6 +351,8 @@ The POS has the following five component parts:
 * Success criteria
 * Assumptions, risks, and obstacles
 
+> I believe, this document have a great value. First of all it is short, so everybody can read it and get the gist of the project. Then POS clearly articulate the main goal of the project. Be a starting point to all other documents. 
+
 ##Planning in TPM
 ![fig51][WysockiFig51]
 [WysockiFig51]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-5-1.png "Pain curves"
@@ -361,11 +363,11 @@ that displays the relationship between dependent tasks
 As for project planning the list is very short: sticky notes, marking pens, and plenty of whiteboard space. The tools I just mentioned happen to be my choice for some incremental, most iterative, all adaptive, and all extreme projects. Just remember that if you create the plan using software tools, you have to maintain it using the software tools.
 
 The following estimates of planning time are a good guide:
-  Very small projects Less than 1/2 day
-  Small projects Less than one day
-  Medium projects 2 days
-  Large projects 3 – 4 days
-  Very large projects 30 team members translates to a large project. The planning time can vary widely from 5 or more days to several months.
+*  Very small projects Less than 1/2 day
+*  Small projects Less than one day
+*  Medium projects 2 days
+*  Large projects 3 – 4 days
+*  Very large projects 30 team members translates to a large project. The planning time can vary widely from 5 or more days to several months.
 
 The objective of a Joint Project Planning Session (JPPS) is this: Develop a project plan that meets the COS as negotiated between the requester and the provider, and as described in the POS and RBS. (Conditions of Satisfaction (COS) and Project Overview Statement (POS))
 
@@ -384,6 +386,9 @@ Sample agenda for the project planning sessions:
   6. Revise and approve the project completion date.
   7. Finalize the resource schedule.
   8. Gain consensus on the project plan.
+
+> Interesting structure. But remember, that it relates to the TPM projects. For other types there is a big probability that all RBS and WBS... critical path would be useless after one or two iterations.
+
 
 The __Work Breakdown Structure (WBS)__ is a hierarchical description of all work that must be done to complete the project as
 defined in the current RBS
@@ -409,6 +414,7 @@ Approaches to Building the WBS
 * Business Process
 pick the one that seems to bring the most clarity to defining the project work.
 
+> I know another way of decomposing big tasks. In discription we should focus on how we will verify that this task is successfully done. We write down criteria that become itself smaller tasks. We proceed untill all tasks will be devided into small, understandable pieces that can be estimated in terms of work. The resulting graph becomes an analogue of WBS plus we get the acceptance rules to all tasks.
 
 ![fig57][WysockiFig57]
 [WysockiFig57]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-5-7.png "WBS for a waterfall systems development methodology"
@@ -418,6 +424,9 @@ It is important to understand the difference between labor time and duration tim
 
 ![fig58][WysockiFig58]
 [WysockiFig58]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-5-8.png "Elapsed time versus work time"
+
+> Important point. Especially in Web Development, since software engeneers must stay in so-called [State of Flow](https://www.rallydev.com/blog/agile/benefits-attaining-flow-state-agile-software-development) to be effective.
+From the other hand we still need to facilitate broad channel of communication between team members. To the problem of finding right balance several works are dedicated. E.g. [Cone of silence ](http://alistair.cockburn.us/The+cone+of+silence+and+related+project+management+strategies) from Alistair Cockburn.
 
 Six Methods for Estimating Task Duration
 * Similarity to other tasks
