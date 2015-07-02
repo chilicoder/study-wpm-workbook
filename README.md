@@ -1,8 +1,8 @@
 # A Workbook of Iaroslav Popov for the Web Project Management course
 
-#Notes for the book "Effective Project Management" of R. Wysocki
+##Notes for the book "Effective Project Management" of R. Wysocki
 
-##Project Management Life Cycles
+###Project Management Life Cycles
 
 A **project management life cycle (PMLC)** is a sequence
 of processes that includes:
@@ -510,7 +510,7 @@ to complete the task within the scheduled start and finish dates.
 
 > Never saw the value from such tables. 
 
-##Monitor & Control a TPM Project
+###Monitor & Control a TPM Project
 Here are some of the reporting tools:
 * Current period reports
 * Cumulative reports
@@ -611,7 +611,7 @@ The Escalation Strategy Hierarchy
 Approval to Close the Project.
 In most cases, the acceptance criteria are nothing more than a checklist that reflects the client requirements.
 
-##Close a TPM Project
+###Close a TPM Project
 Closing a Project:
 1. Getting client acceptance of deliverables
    The ATP checklist is written in such a fashion that compliance is either dem onstrated by the test or it is not demonstrated by the test. It must be written in such a way that no interpretation is needed to determine whether compliance has been demonstrated.
@@ -657,7 +657,7 @@ Even though the team may have started out as a “herd of cats,” the project t
 
 > This is important. While formal announcment switches on people and focuses them to the project. This procedure switches them off. All valuable reflections are done, they can concentrate on next project. Also the feeling "we did it" positively effects on motivation and confidence. 
 
-##Complex Project Management
+###Complex Project Management
 Understanding the Complexity/Uncertainty Domain of Projects
 __Uncertainty__ is the result of changing market conditions that require high-speed and high-change responses to produce a solution in order to be competitive. __Complexity__ is the result of a solution that has eluded detection and will be difficult to find.
 
@@ -727,7 +727,7 @@ there is to be able to redirection as business conditions change
 
 The focus on delivery of business value is apparent and up-front in all of the APM and xPM project management approaches.
 
-##Agile Project Management
+###Agile Project Management
 
 Twelve principles of Agile Software:
 
@@ -758,8 +758,8 @@ Twelve principles of Agile Software:
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
  
 
-# 23 Apr 2015 - Online Session Notes
-##SCRUM
+## 23 Apr 2015 - Online Session Notes
+###SCRUM
 To my mind one of the the main threads in starting of scrum is the thread of falling to the Cargo cult, when a team start to do activities but doesn't understand what are this activities for
 
 What are the prerequisites for SCRUM process in a company:
@@ -768,7 +768,7 @@ What are the prerequisites for SCRUM process in a company:
 -High quality of product management
 
 
-##eXtreme PM
+###eXtreme PM
 
 exploratory nature
 
@@ -790,7 +790,7 @@ easy to head of the road
 ###IN SP I RE model
 
 
-##Multiple Teams Projects
+###Multiple Teams Projects
 Several independent team (possible from outside)
 MY: crucial task to organize communication channels and interfaces between teams
 
@@ -802,8 +802,8 @@ Core Team Manager is not a Project Manager
 He is a Lead of Leads
 
 
-# cards for [presentation] (https://docs.google.com/presentation/d/1aK-o-Ob9LlVDrNNGqGasahJMUzMtUIQa-QPyuNvSIfQ/edit?usp=sharing)
-## Belonging
+## cards for [presentation] (https://docs.google.com/presentation/d/1aK-o-Ob9LlVDrNNGqGasahJMUzMtUIQa-QPyuNvSIfQ/edit?usp=sharing)
+### Belonging
 > Ill start with aspect
 
 > Mythologies  
