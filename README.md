@@ -22,16 +22,16 @@ We choose approach basing on level of goals clearness.
 > Or maybe better formulation of the question is: **How to separate business goals from project goals?**
 Achieve business goals is a project? Or project is to get business value (make revenue generator) which helps to achieve business goal? 
 
-The more uncertaincy we get the less detailed planning for the whole project we need in the beginning. It doesn't mean that we need less planning, 
+The more uncertainty we get the less detailed planning for the whole project we need in the beginning. It doesn't mean that we need less planning, 
 
 ### PMLC model pie
 At least 70 percent of all their projects are APM projects, 20 percent are TPM projects, and the remaining 10 percent is split between xPM and MPx projects
-> This is very valuable numbers. I wish, I knew them at the start of my career. Too many projects I tried to do in TPM style. In our company we even have some training, but it was only about TPM. I always had a feeling that all my plans and WBS will become useless (and they were) and if any document about the project is more then 1-2 pages then it won't be usefull. 
-> I think in Web development the numbers are even less for the TPM. The reason is that creation of the sofware is not an analogue of the factory production, that is mistakenly taken. In software development the analogue of production is **compiling**. And this phase actually takes not much time comparing to the other phases of creation of software product. The right analogue to software development from the factory production is the process of designing of the product. Then the stage mapping can be something like this: 
+> This is very valuable numbers. I wish, I knew them at the start of my career. Too many projects I tried to do in TPM style. In our company we even have some training, but it was only about TPM. I always had a feeling that all my plans and WBS will become useless (and they were) and if any document about the project is more then 1-2 pages then it won't be useful. 
+> I think in Web development the numbers are even less for the TPM. The reason is that creation of the software is not an analogue of the factory production, that is mistakenly taken. In software development the analogue of production is **compiling**. And this phase actually takes not much time comparing to the other phases of creation of software product. The right analogue to software development from the factory production is the process of designing of the product. Then the stage mapping can be something like this: 
 > * Wrining technical requirements
 > * Writing acceptance procedures (AP)
 > * Creation prototypes and evaluating them against AP (in software development it's basically the same)
-> * Producing experimental series (in sofware development puting the to the test environment)
+> * Producing experimental series (in software development puting the to the test environment)
 > * Production (releasing final version of the product)
 
 > [Link for Engineering design process in Wiki] (https://en.wikipedia.org/wiki/Engineering_design_process#Production_planning_and_tool_design)
@@ -39,7 +39,7 @@ At least 70 percent of all their projects are APM projects, 20 percent are TPM p
 ###Traditional Project Management
 20% of projects. Infrastructure projects. 
 TPM projects are change-intolerant. RBS and WBS are relatively complete. High expenses for change.
-Well-known technology. Skilled and well organized team. Well known risks. 
+Well-known technology. Skilled and well organised team. Well, known risks. 
 > The examples of TPM projects:
 > * Assemble a cabinet from IKEA using a scheme.
 > * Digging 10 equal holes.
@@ -471,7 +471,7 @@ Change is a way of life in project management. You might as well confront it and
 
 Managing Team Communications.
 Technical people often simply aren't good communicators. However, for team members to be truly effective, they have to openly communicate with one another
-> Cockburn names ["Personal Safety "](http://alistair.cockburn.us/Personal+safety) as one of the properties of successful teams. If people feel safe they provide better critique during retrospective sessions, point out to the conflict on the early stages and report delays in delivery early. 
+> Cockburn names ["Personal Safety "](http://alistair.cockburn.us/Personal+organisation) as one of the properties of successful teams. If people feel safe they provide better critique during retrospective sessions, point out to the conflict on the early stages and report delays in delivery early. 
 
 Effectively managing communications is a critical factor for successful project management.
 
@@ -487,7 +487,7 @@ Any organization that does not have a way of effectively handling these situatio
 
 ![fig64][WysockiFig64]
 [WysockiFig64]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-6-4.png "The resource scheduling problem"
-Too many organizations believe that by simply adding more into the top of the funnel, more will come out of the bottom.
+Too many organisations believe that by simply adding more into the top of the funnel, more will come out of the bottom.
 
 > Totally aggree. Not yet have much experience for German cultural features in that aspect, but in Russian corporate culture this point exists very often. That produces higher level of stress and burnout. 
 
@@ -498,7 +498,7 @@ The resource schedule needs to be leveled for the following two reasons:
 > Also we must not forget about the factor of "Flow". Overlaying several tasks on one developer in one time will significantly decrease his productivity. 
 
 Approaches to level project resources:
-* Utilizing available slack
+* Utilising available stack
 * Shifting the project finish date
 * Smoothing
 
@@ -655,7 +655,7 @@ Celebrating Success
 There must be some recognition for the project team at the end of the project. This can be as simple as individual thank-you notes, a commemorative mug, a T-shirt, a pizza party, or tickets to a ball game; or it can be something more formal, such as bonuses
 Even though the team may have started out as a “herd of cats,” the project they have just completed has honed them into a real team. This can be a very traumatic experience for them, and they deserve closure. That is what celebrating success is all about.
 
-> This is important. While formal announcment switches on people and focuses them to the project. This procedure switches them off. All valuable reflections are done, they can concentrate on next project. Also the feeling "we did it" positively effects on motivation and confidence. 
+> This is important. While formal announcement switches on people and focuses them to the project. This procedure switches them off. All valuable reflections are done, they can concentrate on next project. Also the feeling "we did it" positively effects on motivation and confidence. 
 
 ###Complex Project Management
 Understanding the Complexity/Uncertainty Domain of Projects
@@ -667,20 +667,20 @@ Each quadrant of the project landscape has different profiles when it comes to r
 
 As less and less of the solution is known, the impact of non-value-added work on project success becomes more and more of a factor. Time has been wasted. APM models are better equipped than TPM models to handle this uncertainty and the complexity that results from it. __The models are built on the assumption that the solution has to be discovered__
 
-APM processes expect and embrace change as a way to find a better solution and as a way to maximize business value within time and budget constraints. That means choosing and continually changing the PMLC model to increase the business value that will result from the project. Realize that to some extent __scope is a variable__ in the complex project management world.
+APM processes expect and embrace change as a way to find a better solution and as a way to maximise business value within time and budget constraints. That means choosing and continually changing the PMLC model to increase the business value that will result from the project. Realise that to some extent __scope is a variable__ in the complex project management world.
 
 Risk versus the Complexity/Uncertainty Domain.
 the PMLC model becomes more flexible and lighter. At the same time, project risk increases. Risk increases
 in relation to the extent to which the solution is not known. On balance, that means more effort should be placed on risk management as the project moves through APM and looks more like an xPM project. There will be less experience with these risks because they are specific to the product being developed. In xPM and MPx projects, risk is the highest because you are in an R & D environment. Process risk is almost nonexistent because the ultimate in flexibility has been reached in this quadrant but product risk is extremely high.
 
 Team Cohesiveness 
-The team becomes more self-organizing, self-sufficient, and self-directing as the project moves across the quadrants. *It is highly recommended that APM, xPM, and MPx teams be co-located.*
+The team becomes more self-organising, self-sufficient, and self-directing as the project moves across the quadrants. *It is highly recommended that APM, xPM, and MPx teams be co-located.*
 
-> And it is hardly recommended that the team is formed and built. The more people know each other the less is the requirement of colocation. Of couse it is better to have all members sit together or nearby. But if it is not achievable, then we need to facilitate special team building activities. Invite people in one place; orginize business trips between offices. People instatiate communication, trust and respect between each other much easier and faster then they physically do some activities together (especially if they succeed). 
+> And it is hardly recommended that the team is formed and built. The more people know each other the less is the requirement of colocation. Of cause it is better to have all members sit together or nearby. But if it is not achievable, then we need to facilitate special team building activities. Invite people in one place; organise business trips between offices. People instantiate communication, trust and respect between each other much easier and faster then they physically do some activities together (especially if they succeed). 
 
-> Moreover, if you team consist of people with different culture, your team building activities must be signtifically intenced. The risk that people won't achieve effective communication and form team increases. 
+> Moreover, if you team consist of people with different culture, your team building activities must be significally intended. The risk that people won't achieve effective communication and form team increases. 
 
-> If you failed to organize your people as a team, it is better to devide tasks into separated. Otherwise, the probability of conflicts will be very high, increasing the probability of fail for the project.
+> If you failed to organise your people as a team, it is better to divide tasks into separated. Otherwise, the probability of conflicts will be very high, increasing the probability of fail for the project.
 
 Communications.
 Top 10 reasons for project failure as reported in the Standish Group CHAOS 2010 Report:
@@ -751,11 +751,11 @@ Twelve principles of Agile Software:
 
 * Continuous attention to technical excellence and good design enhances agility.
 
-* Simplicity--the art of maximizing the amount of work not done--is essential.
+* Simplicity--the art of maximising the amount of work not done--is essential.
 
-* The best architectures, requirements, and designs emerge from self-organizing teams.
+* The best architectures, requirements, and designs emerge from self-organising teams.
 
-* At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+* At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
  
 
 ## 23 Apr 2015 - Online Session Notes
@@ -792,7 +792,7 @@ easy to head of the road
 
 ###Multiple Teams Projects
 Several independent team (possible from outside)
-MY: crucial task to organize communication channels and interfaces between teams
+MY: crucial task to organise communication channels and interfaces between teams
 
 Project Office Structure
 linear and incremental processes
@@ -808,7 +808,7 @@ He is a Lead of Leads
 
 > Mythologies  
 
-> shared histori es (real or imagined) that express values of the community. Communities use these stories to illustrate values and to inspire desired behavior. They provide members with a moral compass in situations that are important to the community.
+> shared histori es (real or imagined) that express values of the community. Communities use these stories to illustrate values and to inspire desired behaviour. They provide members with a moral compass in situations that are important to the community.
 
 > In modern times, we still use mythologies to show members of a community what they should value. they can be used to help members of the network and community understand how to respond in particular kinds of situations and how to interact with others.
 
@@ -824,7 +824,7 @@ After that usually other members start to contribute their own stories
 
 > negative myths
 
->  negative myths serve to warn members against prohibited behaviors
+>  negative myths serve to warn members against prohibited behaviours
 
 > Another point is to get
  a “bard” who, like the medieval bards of old, has the responsibility of collecting the stories of the group.
@@ -832,17 +832,17 @@ After that usually other members start to contribute their own stories
 > next aspect of Belonging is 
 >  Protocols, routines, and Schemas 
 
-> Protocols, routines, and schemas are ritualized behaviors that members of a community use in two ways: 
+> Protocols, routines, and schemas are ritualised behaviours that members of a community use in two ways: 
 > (1) to identify and greet other members and 
-> (2) to understand the correct behaviors to use in different social situations.
+> (2) to understand the correct behaviours to use in different social situations.
 
 > Schemas are sets of preprogrammed procedures used in potentially difficult social situations to keep those situations from embarrassing us.
 
 > Protocols are like schemas, but they’re not tacit.
-> They’re like rules of the road.
+> Their like rules of the road.
 
 > Routines are also protocols; just protocols that are happening repeatedly. 
-> Routines help ensure sustainability and minimize conflict.
+> Routines help ensure sustainability and minimise conflict.
 
 > As and example of technique lets consider a group of very successful and very strong-willed professionals with which Tharon Howard worked
 
