@@ -466,6 +466,8 @@ The project team has the following three separate components:
 
 The Project Kick-Off Meeting is the formal announcement to the organization that this project has been planned and approved for execution.
 
+> Although it is a formal procedure, but this action plays a role of a trigger for the project team. Also, it is a signal for other stakeholders who doesn't involved in project activities directly.
+
 A sample Project Kick-off Meeting agenda:
 * Introduce the sponsor to the project team
 * Introduce the importance of the project by the sponsor
@@ -482,6 +484,8 @@ A sample Project Kick-off Meeting agenda:
 Establishing Team Operating Rules.
 Having these rules developed and agreed to by every team member is critical to project success. The rules of the engagement will help establish an environment for solving many project-related problems
 
+> Important point. This rules clarifies the procedure of resolving conflicts. That decreases risks of failure, since people know how to act in unconvenient situations. Otherwise they could keep silence until at some point it becomes unresolvable. 
+
 Situations that Require Team Operating Rules:
 * Problem solving
 * Decision making
@@ -496,8 +500,14 @@ Situations that Require Team Operating Rules:
 * Brainstorming
 * Team meetings
 
+> Basically all key activities of the project with rich communication.
+
 Team War Room
 Ideally, all of the walls are covered with whiteboards. Depending on the size of the team, the team war room may be one large room that accommodates everyone or several smaller rooms that are adjacent to a larger community-type room for group meetings and presentations. These adjacent rooms can double as breakout rooms. Each team member has his or her own private workspace, but there is a minimum number of partitions. A line of sight between each team member is ideal. The project artifacts are displayed so everyone has immediate access.
+
+> In one company we had a big blackboard wall in one meating room on which one could draw with a chalk. That was very convenient. Putting diagrams on walls also has positive effect.
+
+> The class of such information charts and diagramms is called Information Radiators. [Definition](http://alistair.cockburn.us/Information+radiator) from "Crystal Clear" book of Alistair Cockburn. And [Images from google](https://www.google.de/search?q=information+radiators&biw=1184&bih=630&source=lnms&tbm=isch&sa=X&ei=wiqVVeaYEoG2sAHbjIDwCA&ved=0CAcQ_AUoAQ) also gives some points what it is.
 
 Managing Scope Changes.
 Change is a way of life in project management. You might as well confront it and be prepared to act accordingly. Think of it as a mini-JPPS.
@@ -506,9 +516,9 @@ Change is a way of life in project management. You might as well confront it and
 
 Managing Team Communications.
 Technical people often simply aren't good communicators. However, for team members to be truly effective, they have to openly communicate with one another
+> Cockburn names ["Personal Safety "](http://alistair.cockburn.us/Personal+safety) as one of the properties of successful teams. If people feel safe they provide better critique during retrospective sessions, point out to the conflict on the early stages and report delays in delivery early. 
 
-Effectively managing communications is a critical factor for successful project
-management.
+Effectively managing communications is a critical factor for successful project management.
 
 About long documents. You would get more meaningful feedback by parceling out the document based on level of interest and involvement in the process, rather than asking everyone to read and comment on all 50 pages.
 
@@ -523,15 +533,19 @@ Any organization that does not have a way of effectively handling these situatio
 ![fig64][WysockiFig64]
 [WysockiFig64]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-6-4.png "The resource scheduling problem"
 Too many organizations believe that by simply adding more into the top of the funnel, more will come out of the bottom.
+
+> Totally aggree. Not yet have much experience for German cultural features in that aspect, but in Russian corporate culture this point exists very often. That produces higher level of stress and burnout. 
+
 The resource schedule needs to be leveled for the following two reasons: 
 * To ensure that no resource is over-allocated. That is, you do not schedule a resource to more than 100 percent of its available time.
 * You, as the project manager, want the number of resources (people, in most cases) to follow a logical pattern throughout the life of the project
+
+> Also we must not forget about the factor of "Flow". Overlaying several tasks on one developer in one time will significantly decrease his productivity. 
 
 Approaches to level project resources:
 * Utilizing available slack
 * Shifting the project finish date
 * Smoothing
-
 
 Work Packages.
 The __work package__ is a statement by each task manager as to how he or she plans
