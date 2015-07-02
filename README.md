@@ -553,6 +553,8 @@ to complete the task within the scheduled start and finish dates.
 ![fig66][WysockiFig66]
 [WysockiFig66]: https://github.com/chilicoder/study-wpm-workbook/blob/master/images/wisocki-fig-6-6.png "Work package assignment sheet"
 
+> Never saw the value from such tables. 
+
 ##Monitor & Control a TPM Project
 Here are some of the reporting tools:
 * Current period reports
@@ -589,6 +591,10 @@ A reporting system has the following characteristics:
 * Has an early warning system of pending problems
 * Is easily understood by those who have a need to know
 
+> I used JIRA in several places. It provides a big bunch of different reports and also very flexible. So almost any custom report can be created.
+
+> The key point: You must explicitly teach your employees how to use the tool. Otherwise their input would be inconsistent and you won't get valuable reports. Also, if people won't see any value of their input efforts, they quickly stop providing it. People are lazy, they won't do usefulless things. 
+
 Positive Variances problems.
 Positive variances can result in rescheduling to bring the project to completion early, under budget, or both. Resources can be reallocated from ahead-of-schedule projects to behind-schedule projects. Positive variances also can result from schedule slippage! Consider budget. Being under budget means that not all dollars were expended, which may be the direct result of not having completed work that was scheduled for completion during the report period
 
@@ -607,8 +613,13 @@ Contains the following information:
 * Outcome
 If a Risk Log is maintained, it is often integrated into the Issues Log
 
+> There are many automation tools like JIRA, Redmine and so on.
+
 Managing Project Status Meetings.
 You hold a status meeting to get information to the whole team. The purpose of the meeting is to encourage the free flow of information, and that means ensuring that the people who need to have information to do their jobs get the information at the status meeting.
+
+> There should be a balance, I think. Once a day for a small team (5-8). Once a week for a department (~30 people). Once a month for a company (~100-200) and once a year for enterprise. 
+
 Status Meeting Format:
 1. The project champion reports any changes that may have a bearing on the future of the project.
 2. The client reports any changes that may have a bearing on the future of the project.
@@ -622,6 +633,10 @@ Status Meeting Format:
 
 The 15-Minute Daily Status Meeting.
 These short status meetings were originally introduced as a tool to monitor and control APM, xPM, and MPx projects. Problems and issues are not discussed in the daily status meeting except to add them to the Scope Bank and Issues Log
+
+> Two points. 1) No issue discussions. Better make a semi-strict template for report. Only clarify points, but not discuss.
+
+> 2) Doesn't suit for distributed teams. Better do it weekly.
 
 Defining a Problem Escalation Strategy.
 When the unplanned happens, the project manager needs to determine who owns the problem and the extent of the problem, and then take the appropriate corrective measures.
@@ -679,9 +694,13 @@ Example list:
 * Client acceptance documents
 * Post-implementation audit report
 
+> It depends on the level of how this documents will be reused. How quick they become obsolete, How much efforts needed to produce this documentation. I would say, POS, Design documents, Final report and Client acceptance documents have value. But I really don't remember that I ever read status reports of any closed projects.
+
 Celebrating Success
 There must be some recognition for the project team at the end of the project. This can be as simple as individual thank-you notes, a commemorative mug, a T-shirt, a pizza party, or tickets to a ball game; or it can be something more formal, such as bonuses
 Even though the team may have started out as a “herd of cats,” the project they have just completed has honed them into a real team. This can be a very traumatic experience for them, and they deserve closure. That is what celebrating success is all about.
+
+> This is important. While formal announcment switches on people and focuses them to the project. This procedure switches them off. All valuable reflections are done, they can concentrate on next project. Also the feeling "we did it" positively effects on motivation and confidence. 
 
 ##Complex Project Management
 Understanding the Complexity/Uncertainty Domain of Projects
@@ -701,6 +720,12 @@ in relation to the extent to which the solution is not known. On balance, that m
 
 Team Cohesiveness 
 The team becomes more self-organizing, self-sufficient, and self-directing as the project moves across the quadrants. *It is highly recommended that APM, xPM, and MPx teams be co-located.*
+
+> And it is hardly recommended that the team is formed and built. The more people know each other the less is the requirement of colocation. Of couse it is better to have all members sit together or nearby. But if it is not achievable, then we need to facilitate special team building activities. Invite people in one place; orginize business trips between offices. People instatiate communication, trust and respect between each other much easier and faster then they physically do some activities together (especially if they succeed). 
+
+> Moreover, if you team consist of people with different culture, your team building activities must be signtifically intenced. The risk that people won't achieve effective communication and form team increases. 
+
+> If you failed to organize your people as a team, it is better to devide tasks into separated. Otherwise, the probability of conflicts will be very high, increasing the probability of fail for the project.
 
 Communications.
 Top 10 reasons for project failure as reported in the Standish Group CHAOS 2010 Report:
@@ -751,6 +776,8 @@ The focus on delivery of business value is apparent and up-front in all of the A
 
 Twelve principles of Agile Software:
 
+[Presentation about Agile Manifesto](https://www.dropbox.com/s/nkpzwmrqsriadiz/Agile%20Manifesto%20-%20Web%20Project%20Management.pdf?dl=0)
+
 * Our highest priority is to satisfy the customer through early and continuous delivery of valuable software
 
 * Welcome changing requirements, even late in  development. Agile processes harness change for  the customer's competitive advantage.
@@ -776,72 +803,64 @@ Twelve principles of Agile Software:
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 ## Belonging
-### cards for presentation
-```
-Ill start with aspect
-Mythologies  
+### cards for [presentation] (https://docs.google.com/presentation/d/1aK-o-Ob9LlVDrNNGqGasahJMUzMtUIQa-QPyuNvSIfQ/edit?usp=sharing)
+> Ill start with aspect
 
-shared histories (real or imagined) that express values of the community. 
-Communities use these stories to illustrate values and to inspire desired behavior.
-They provide members with a moral compass in situations that are important to the community.
+> Mythologies  
 
-In modern times, we still use mythologies to show members of a community what they should value.
-they can be used to help members of the network and community understand how to respond in particular kinds of situations and how to interact with others.
+> shared histori es (real or imagined) that express values of the community. Communities use these stories to illustrate values and to inspire desired behavior. They provide members with a moral compass in situations that are important to the community.
 
-So, what techniques we can use in order to build this aspect
-TECHNIQUES
+> In modern times, we still use mythologies to show members of a community what they should value. they can be used to help members of the network and community understand how to respond in particular kinds of situations and how to interact with others.
+
+> So, what techniques we can use in order to build this aspect
+> TECHNIQUES
 create a “Share Stories Archive ”
 To do this asked some of the leaders in the network to “seed” the discussion
 possible topics for the stories might be about initial rituals in the community or some remarkable achievements
 After that usually other members start to contribute their own stories
 
-A last, individual members can also use the same storytelling technique to create a persona for themselves within a community.
+>  A last, individual members can also use the same storytelling technique to create a persona for themselves within a community.
 
 
-negative myths
+> negative myths
 
- negative myths serve to warn members against prohibited behaviors
+>  negative myths serve to warn members against prohibited behaviors
 
-Another point is to get
+> Another point is to get
  a “bard” who, like the medieval bards of old, has the responsibility of collecting the stories of the group.
 
-next aspect of Belonging is 
-Protocols, routines, and Schemas 
+> next aspect of Belonging is 
+>  Protocols, routines, and Schemas 
 
-Protocols, routines, and schemas are ritualized behaviors that members of a community use in two ways: 
-(1) to identify and greet other members and 
-(2) to understand the correct behaviors to use in different social situations.
+> Protocols, routines, and schemas are ritualized behaviors that members of a community use in two ways: 
+> (1) to identify and greet other members and 
+> (2) to understand the correct behaviors to use in different social situations.
 
-Schemas are sets of preprogrammed procedures used in potentially difficult social situations to keep those situations from embarrassing us.
+> Schemas are sets of preprogrammed procedures used in potentially difficult social situations to keep those situations from embarrassing us.
 
-Protocols are like schemas, but they’re not tacit.
-They’re like rules of the road.
+> Protocols are like schemas, but they’re not tacit.
+> They’re like rules of the road.
 
-Routines are also protocols; just protocols that are happening repeatedly. 
-Routines help ensure sustainability and minimize conflict.
+> Routines are also protocols; just protocols that are happening repeatedly. 
+> Routines help ensure sustainability and minimize conflict.
 
+> As and example of technique lets consider a group of very successful and very strong-willed professionals with which Tharon Howard worked
 
-As and example of technique lets consider a group of very successful and very strong-willed professionals with which Tharon Howard worked
+> This particular group was mostly male, and it was fairly big problem with resolving conflicts
+> So called “Fight club rules” were introduced.
 
-This particular group was mostly male, and it was fairly big problem with resolving conflicts
-So called “Fight club rules” were introduced.
-
-The soap bar 
-became, a badge of shame that the person would have to keep until someone else on the team “earned” the soap bar.
+> The soap bar 
+> became, a badge of shame that the person would have to keep until someone else on the team “earned” the soap bar.
 several of the members stated bluntly that they thought it was a “stupid game” and stated that they would refuse to use the soap bar on their posts
 
+> but once the protocol was in place, earning the soap bar and not using it showed a degree of contempt for the entire community that only few in the group were willing to risk.
 
-but once the protocol was in place, earning the soap bar and not using it showed a degree of contempt for the entire community that only few in the group were willing to risk.
+> Brief defenition
+> Why is it important
+> Give example
+> Further points
 
-
-
-Brief defenition
-Why is it important
-Give example
-Further points
-
-
-CHECKLIST OF TECHNIQUES
+> CHECKLIST OF TECHNIQUES
 1. Create and distribute a story of origin
 2. Create an initiation ritual
 3. Encourage your leaders and elders to share mythologies
@@ -854,7 +873,5 @@ CHECKLIST OF TECHNIQUES
 7. Establish symbols, colors, and visual identities
 8. Use a membership application as an initiation ritual
 
-
-How to keep balance between exclusivity and popularity?
-What kind of vision should be shared by story in technique 1? 
-```
+> How to keep balance between exclusivity and popularity?
+> What kind of vision should be shared by story in technique 1? 
