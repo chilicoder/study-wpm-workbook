@@ -364,6 +364,53 @@ One of the more robust and well elaborated of these models in the four-component
 - Relational hypertext: A hypertext structure with links that allow the reader to access information on other screens that have some logical, conceptual, or hierarchical connection to the content on the current screen.
 
 (LT8) Characterize some of the computer mediated technologies for learning as presented by Graesser et al.!
+The learning strategies of most students are extremely limited, so the systems must provide modeling of effective strategies, intelligent scaffolding, and accurate feedback.
+
+A broad landscape of 
+learning technologies (T), 
+pedagogical mechanisms (M),
+learning goals (G), and 
+learner characteristics (L)
+
+Computer-mediated technologies:
+
+- adaptive computer-based training, 
+The learner 
+(1) studies material presented in a lesson, 
+(2) gets tested with a multiple choice test or another objective test, 
+(3) gets feedback on the test performance, 
+(4) restudies the material if the performance in step 2 is below threshold, and 
+(5) progresses to a new topic if performance exceeds threshold
+
+- dynamic multimedia, 
+Material can be delivered in different presentation modes (verbal, pictorial), sensory modalities (auditory, visual), and delivery media (text, video, simulations).
+Principles that predict when different forms of multimedia will facilitate learning:
+- principles of modality, 
+- coherence, 
+- redundancy, and 
+- individual differences.
+
+- hypertext and hyper- media, 
+These systems provide a large space of Web pages with texts, pictures, animations, and other media. Each page has hot spots for the learner to click and explore.
+
+- interactive simulation, 
+Interactive simulation allegedly produces more learning than having students simply view simulations. In interactive simulation, the student can actively control input parameters and observe the results on the system. The learner can slow down animations to inspect the process in detail, zoom in on important subcomponents of a system during the course of a simulation, observe the system from multiple viewpoints, and systematically relate inputs to outputs 
+
+- intelligent tutoring systems, Intelligent tutoring systems (ITSs) track the knowl- edge states of learners in fine detail and adaptively respond with activities that are sensitive to these knowledge states. The processes of tracking knowl- edge (called user modeling) and adaptively responding to the learner.
+
+- inquiry-based information retrieval, 
+One type of inquiry learning consists of asking ques- tions and searching for answers in an information repository
+
+- animated pedagogical agents, 
+These agents speak, point, gesture, walk, and exhibit facial expressions. Some are built in the image of humans, whereas others are animals or cartoon characters.
+
+- virtual environments with agents, 
+Virtual environments are getting progressively closer to real-world settings and therefore should have excel- lent transfer to the real world but at costs that can be much more economical than learning in field settings. (Military field, flight simulations)
+- serious games, and 
+The challenge of combining entertainment and pedagogical content is the foundational question of serious games.
+
+- collaborative learning environments
+In computer-supported collaborative learning (CSCL), groups of learners collaboratively construct knowledge on a topic in pursuit of project goals that typically are provided by instructors 
 
 
 (CT1)Explain the 3C Model for classification of CSCW Systems!
