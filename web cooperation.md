@@ -414,15 +414,72 @@ In computer-supported collaborative learning (CSCL), groups of learners collabor
 
 
 (CT1)Explain the 3C Model for classification of CSCW Systems!
+[fig-pres03]
+Communication. Uni/Bi directional exchange of messages. And only. No atrefacts. 
+Coordination. Smth that requires for jointly used resources. But people don’t have shared tasks.
+Cooperation. People share common task. They have to work on joint atrefacts. They have success jointly. Its the scene for emotional conflict(!). Its an addition to rational communication with emotional aspect. 
+
 (CT2) What is meant by Social Presence?
+Possibility to play role in community. 
+Its important because it influences on perception, appreciation and satisfaction in positive way. 
+
 (CT3) Explain the Media Richness Model!
+Task and Medium determines the success of communication task. 
+[fig-pres01]
+
+Media Richness Theory.
+The richness should conform to the complexity of the communicational task
+THESIS: That is why it is inefficient to blindly move techniques that works in offline cooperation to online cooperation. E.g. Scrum morning standups are not effective if done through skype/hangeout. Instead of getting shared rhythm and quickly and seamlessly sharing vision team often being annoyed by lacks in connections, and don’t feel each other. Same logic applicable to the retrospectives meetings, which are even more unpredictable in terms of agenda and critical to the rapport between each members. 
+Richness characteristics.
+- Senses 
+- How long and how deep people know each other.
+- How much people agreed upon points under discussion 
+- How deep they involved into communication
+
 (CT4) What are the main arguments by Gerry Stahl for his position, that in many areas of work collaborative information environments are needed?
+- Learning—especially collaborative learning—has become a new form of labor, an integral component of work and organizations (Lave & Wenger, 1991).
+- The pressure on individuals and groups to continually construct new knowledge out of massive sources of information strains the abilities of unaided human cognition. 
+- The contemporary need to extend the learning process from schooling into organizational and community realms is known as lifelong learning.
+
+
 (CT5) Explain the concept community of practice!
+A group of persons, connected through a common craft.
+E.g. Those who use one software tool, or share hobby etc. Something that is not related to the hierarchy of enterprise.
+
+Communities of practice can be co-located within an organization (e.g., at our university) or across a discipline (e.g., all managers of university networks). Before the World Wide Web existed, most computer support for communities of practice targeted individuals with desktop applications.
+
+Community memories are to communities of practice what human memories are to individuals. They embody organizational memory in external repositories that are accessible to community members.
+
+
 (CT6) Why is the concept organizational learning important?
+This reflective stage can be helped if designers have good community support and effective computer support to bring relevant new information to bear on their problem. When they have comprehended the problem and incorporated the new understanding in their personal memories, we say they have learned.
+The articulated new knowledge can be shared within the community of practice. Such knowledge, created by the community, can be used in future situations to help a member overcome a breakdown in understanding.
+The personal reflection and the collaborative articulation of shared perspectives interacting together make innovation possible
+[fig52]
+
 (CT7) Try to identify examples from your experience for the cycles of design (see Fig 5.2 in the book by Gerry Stahl)!
+THESIS: “Rubber duck debugging”[https://en.wikipedia.org/wiki/Rubber_duck_debugging] is technique based on a simplistic cycle of design. It assumes that if the developer explicitly articulates the problem to anyone, even who doesn’t know programming it allows to structure information and can provide insights for the solution.
+
 (CT8) What are the main features in WebNet, that reflect the collaboration aspect?
+
+The general problem for a CIE is to define analysis mechanisms that can bridge the gap from task representation to relevant community memory information items in order to support learning on demand 
+
+Kay reviews the email to find out which routers are preferred by her colleagues.
+
+Jay studies Kay’s design in his Web browser. He realizes that the Iris computer that Kay has added is powerful enough to perform the routing function itself.
+
+Then he redefines the router critic rule in the simulation. He also sends Kay an email describing the advantages of doing the routing in software on the Iris; WebNet may make this email available to people in situations like Kay’s in the future.
+
+In this scenario, Kay, Jay and Bea have used WebNet as a design, communication and memory system to support both their immediate tasks and the future work of their community. Knowledge has been constructed by people working on their own, but within a community context. Their knowledge has been integrated within a multi-component community memory that provides support for further knowledge building.
+
+
 (CT9) What are the main arguments used by Larsson et al. for using lightweight technologies for information sharing in an engineering environment?
+
 (CT10) What are he main problems identified by Grudin regarding the design and implementation of CSCW applications?
+
+- The disparity between who does the work and who gets the benefit. The application fails because it requires that some people do additional work, while those people are not the ones who perceive a direct benefit from the use of the application.- The breakdown of intuitive decision-making. The design process fails because our intuitions are poor for multi-user applications -- decision-makers see the potential benefits for people similar to them- selves, but don’t see the implications of the fact that extra work will be required of others.- The underestimated difficulty of evaluating CSCW applications. We fail to learn from experience because these complex applications introduce almost insurmountable obstacles to meaningful, generalizable analysis and evaluation.
+Evaluation of CSCW applications requires a very ‘different approach, based on the methodologies of social psychology and anthropology. This may not be news to those who have been monitoring the field of CSCW very closely, but the skills are largely absent in development and many research environments, where human factors engineers and cognitive psychologists are only starting to be accepted. And the required methods are generally more expensive, more time-consuming, and less precise
+
 
 ### Picot chapter 2
 
@@ -550,10 +607,134 @@ sidenote: Consumer-oriented approach.
 Its important not only analyse technical part but also to consider social part of the system.
 
 ### Designing Cooperation Systems
+Important to understand the nature of organisation, roles
+Problems usually not in technical level but in organisational aspect.
+
+Understand in which way they cooperates. Roles, formal and informal, competancy. 
+
+It is important to have the support of high management. The reason is that roles and interaction will change. Balance will change, so it is possible to introduce the system only with organisational change.
+
+reseach paper Grudin(1989) old but still true. 
+Reasons of failure:
+1) Disparity between who does the work and who gets the benefits. Eg. knowledge system. Those who whats are whose who already know. 
+2) Iterative decision making. That leads to people who make decision are not the users. 
+Difficult to estimate CSCW to fit in your org. Better to do project.
+3) The roles of system threatens the established structure. Informational role of the manager goes away. No manipulation. 
+
+Social presence. 
+Possibility to play role in community. 
+Its important because it influences on perception, appreciation and satisfaction in positive way. 
+
+Task and Medium determines the success of communication task. 
+[fig-pres01]
+
+Media Richness Theory.
+The richness should conform to the complexity of the communicational task
+THESIS: … about scrum by skype.
+Richness characteristics.
+-Sences 
+-familiarity of peers?
+- some other?
+
+Design is not a programming or constructing new.  Its a combining of the components to fulfill the requiments. 
 
 Cooperation in context of enterprise.
+CSCW context
 
+Classification of functions
 
+Space-time classification
+[fig-pres02]
+
+3C classification 
+[fig-pres03]
+Communication. Uni/Bi directional exchange of messages. And only. No atrefacts. 
+Coordination. Smth that requires for jointly used resources. But people don’t have shared tasks.
+Cooperation. People share common task. They have to work on joint atrefacts. They have success jointly. Its the scene for emotional conflict(!). Its an addition to rational communication with emotional aspect. 
+
+Group Editors.
+It means, that it supports joint change of document
+[fig-pres04]
+Means of awareness. Who are here. Who does what and so on.
+Challenges:
+Consistency. In the end of the editing session you expect one outcome from all the contributors. But also possible to demand more or less strong sych in the process.
+Frequency. How aware others should be what others are doing. More can feel better but distracts.
+Roles. Translate or not roles to configuration of the system. Freedom vs Vandalism balance. 
+
+Digital boards and tables. 
+Shared context - means to focus the cooperation. Cooperation means that you have same context, same vision. 
+Metaphor of Whiteboard is usual here. 
+Challenge - the spontaneity of use. 
+
+Information spaces. Storage for sharing information about coopetational work. 
+Teamrooms, Confluence, Github, Wikis. 
+-Available anytime anyplace. To newcommers. 
+In many areas this is not a reality. The legislation system is an example. Conflict resolutions between new paragraphs and new are still not computer mediated. 
+- stores history
+- manages roles
+
+Digital memory.
+usefull to retrieve the reasons for decisions done. 
+challange. how to get the access to get this information. 
+Format, metadata, ontologies. 
+If one would will think that everithing is saved. Then such unforgetable system can make people to act defensively. 
+
+Typical functions in cooperational system
+Use of Web 2.0 in topic of enterprise communication.
+Web vs Web 2.0
+Access to information -> Access and contribution to information.
+Sowftware -> Services.
+isolated information sources -> Meshups
+(From Tim O’Reilly - What is Web 2.0)
+
+Characteristics of Web 2.0
+- focus on network instead of groups (network are loosely coupled)
+- the data is the asset
+- modularity
+- usability matters. simplify 
+
+Applying to enterprise
+(Enterprise 2.0)
+- Community of practice. A group of persons, connected through a common craft.
+E.g. Those who use one software tool, or share hobby etc. Something that is not related to the hierarchy of enterprise.
+
+In typical CSCW system we have a group in the center. And with web 2.0 Me becames a focus. Everibody contributes from their own.
+Technologies. 
+- Ajax
+- Web services
+- RSS and Atom
+- Portal and meshup 
+
+Origins of Social Software
+
+CMS 80s
+WikiWikiWeb 1995
+Blogs 2000
+
+Graph of SNS
+If you come to Graghts you have a powerful tools. 
+E.g. Tie strength. 
+- frequency
+- type 
+- etc
+
+Roles of Social Software
+- Identitymanagement
+- Communication
+- Informationmanagement
+
+Blogs can be a replacement to email
+Analize opinions.
+
+Microblogging
+Wikis
+Social Tagging Folksonomies.
+
+//
+(CT1)Explain the 3C Model for classification of CSCW Systems!
+(CT2) What is meant by Social Presence?
+(CT3) Explain the Media Richness Model!
+//
 
 
 
