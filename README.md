@@ -875,3 +875,5 @@ several of the members stated bluntly that they thought it was a â€œstupid gameâ
 
 > How to keep balance between exclusivity and popularity?
 > What kind of vision should be shared by story in technique 1? 
+
+test jenkins
